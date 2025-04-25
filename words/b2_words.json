@@ -1,0 +1,8822 @@
+[
+  {
+    "word": "gadget",
+    "translation": "технічна новинка"
+  },
+  {
+    "word": "device",
+    "translation": "пристрій"
+  },
+  {
+    "word": "mechanical",
+    "translation": "механічний"
+  },
+  {
+    "word": "electronic",
+    "translation": "електронний"
+  },
+  {
+    "word": "ingenious",
+    "translation": "винахідливий"
+  },
+  {
+    "word": "intuitive",
+    "translation": "інтуїтивний"
+  },
+  {
+    "word": "latest",
+    "translation": "новітній"
+  },
+  {
+    "word": "obsolete",
+    "translation": "застарілий"
+  },
+  {
+    "word": "outdated",
+    "translation": "застарілий"
+  },
+  {
+    "word": "novel",
+    "translation": "новий"
+  },
+  {
+    "word": "to power",
+    "translation": "живити електроенергією"
+  },
+  {
+    "word": "to charge",
+    "translation": "заряджати"
+  },
+  {
+    "word": "to recharge",
+    "translation": "перезаряджати"
+  },
+  {
+    "word": "to drain",
+    "translation": "виснажувати"
+  },
+  {
+    "word": "to boot",
+    "translation": "завантажувати"
+  },
+  {
+    "word": "to start up",
+    "translation": "запускати"
+  },
+  {
+    "word": "to shut down",
+    "translation": "вимкнути"
+  },
+  {
+    "word": "to update",
+    "translation": "оновити"
+  },
+  {
+    "word": "battery",
+    "translation": "батарея"
+  },
+  {
+    "word": "capacity",
+    "translation": "місткість"
+  },
+  {
+    "word": "signal",
+    "translation": "сигнал"
+  },
+  {
+    "word": "generation",
+    "translation": "генерація"
+  },
+  {
+    "word": "process",
+    "translation": "процес"
+  },
+  {
+    "word": "charger",
+    "translation": "зарядник"
+  },
+  {
+    "word": "cable",
+    "translation": "кабель"
+  },
+  {
+    "word": "memory",
+    "translation": "пам'ять"
+  },
+  {
+    "word": "screen",
+    "translation": "екран"
+  },
+  {
+    "word": "controller",
+    "translation": "контролер"
+  },
+  {
+    "word": "control panel",
+    "translation": "панель управління"
+  },
+  {
+    "word": "microscope",
+    "translation": "мікроскоп"
+  },
+  {
+    "word": "magnifying glass",
+    "translation": "збільшувальне скло"
+  },
+  {
+    "word": "compass",
+    "translation": "компас"
+  },
+  {
+    "word": "drone",
+    "translation": "безпілотний літак"
+  },
+  {
+    "word": "cutting-edge",
+    "translation": "найсучасніший"
+  },
+  {
+    "word": "off",
+    "translation": "вимкнено"
+  },
+  {
+    "word": "touchscreen",
+    "translation": "сенсорний екран"
+  },
+  {
+    "word": "breed",
+    "translation": "порода"
+  },
+  {
+    "word": "to breed",
+    "translation": "розводитися"
+  },
+  {
+    "word": "cage",
+    "translation": "клітка"
+  },
+  {
+    "word": "species",
+    "translation": "порода"
+  },
+  {
+    "word": "territory",
+    "translation": "територія"
+  },
+  {
+    "word": "polar bear",
+    "translation": "полярний ведмідь"
+  },
+  {
+    "word": "owl",
+    "translation": "сова"
+  },
+  {
+    "word": "ape",
+    "translation": "мавпа"
+  },
+  {
+    "word": "cheetah",
+    "translation": "гепард"
+  },
+  {
+    "word": "leopard",
+    "translation": "леопард"
+  },
+  {
+    "word": "puppy",
+    "translation": "щеня"
+  },
+  {
+    "word": "reindeer",
+    "translation": "північний олень"
+  },
+  {
+    "word": "squirrel",
+    "translation": "білка"
+  },
+  {
+    "word": "tortoise",
+    "translation": "черепаха"
+  },
+  {
+    "word": "feather",
+    "translation": "перо"
+  },
+  {
+    "word": "paw",
+    "translation": "лапа"
+  },
+  {
+    "word": "venom",
+    "translation": "отрута"
+  },
+  {
+    "word": "to bark",
+    "translation": "гавкати"
+  },
+  {
+    "word": "to chain",
+    "translation": "закріпити ланцюжком"
+  },
+  {
+    "word": "to lay",
+    "translation": "відкладати яйця"
+  },
+  {
+    "word": "to mate",
+    "translation": "спаровуватися"
+  },
+  {
+    "word": "pack",
+    "translation": "зграя"
+  },
+  {
+    "word": "domestic",
+    "translation": "свійські"
+  },
+  {
+    "word": "extinct",
+    "translation": "вимерлий"
+  },
+  {
+    "word": "mammal",
+    "translation": "ссавець"
+  },
+  {
+    "word": "reptile",
+    "translation": "рептилія"
+  },
+  {
+    "word": "to trap",
+    "translation": "ловити капканом"
+  },
+  {
+    "word": "wildlife",
+    "translation": "жива природа"
+  },
+  {
+    "word": "apron",
+    "translation": "Фартух"
+  },
+  {
+    "word": "badge",
+    "translation": "бейдж"
+  },
+  {
+    "word": "bathrobe",
+    "translation": "халат"
+  },
+  {
+    "word": "bikini",
+    "translation": "бікіні"
+  },
+  {
+    "word": "cardigan",
+    "translation": "кардиган"
+  },
+  {
+    "word": "helmet",
+    "translation": "каска"
+  },
+  {
+    "word": "mask",
+    "translation": "маска"
+  },
+  {
+    "word": "masquerade",
+    "translation": "маскарад"
+  },
+  {
+    "word": "miniskirt",
+    "translation": "мініспідниця"
+  },
+  {
+    "word": "jersey",
+    "translation": "джерсі"
+  },
+  {
+    "word": "sandal",
+    "translation": "сандаль"
+  },
+  {
+    "word": "vest",
+    "translation": "жилет"
+  },
+  {
+    "word": "fabric",
+    "translation": "тканина"
+  },
+  {
+    "word": "denim",
+    "translation": "Денім"
+  },
+  {
+    "word": "lace",
+    "translation": "мереживо"
+  },
+  {
+    "word": "lining",
+    "translation": "підкладка"
+  },
+  {
+    "word": "silk",
+    "translation": "шовк"
+  },
+  {
+    "word": "hood",
+    "translation": "капюшон"
+  },
+  {
+    "word": "zipper",
+    "translation": "застібка"
+  },
+  {
+    "word": "collection",
+    "translation": "колекція"
+  },
+  {
+    "word": "costume",
+    "translation": "костюм"
+  },
+  {
+    "word": "designer",
+    "translation": "дизайнер"
+  },
+  {
+    "word": "modeling",
+    "translation": "моделювання"
+  },
+  {
+    "word": "outfit",
+    "translation": "наряд"
+  },
+  {
+    "word": "wardrobe",
+    "translation": "гардероб"
+  },
+  {
+    "word": "to dress up",
+    "translation": "одягатися"
+  },
+  {
+    "word": "to match",
+    "translation": "відповідати"
+  },
+  {
+    "word": "casual",
+    "translation": "повсякденна"
+  },
+  {
+    "word": "glamorous",
+    "translation": "гламурний"
+  },
+  {
+    "word": "matching",
+    "translation": "відповідний"
+  },
+  {
+    "word": "plain",
+    "translation": "простий"
+  },
+  {
+    "word": "sporty",
+    "translation": "спортивний"
+  },
+  {
+    "word": "striped",
+    "translation": "смугастий"
+  },
+  {
+    "word": "stylish",
+    "translation": "модний"
+  },
+  {
+    "word": "undressed",
+    "translation": "роздягнений"
+  },
+  {
+    "word": "wooly",
+    "translation": "шерстистий"
+  },
+  {
+    "word": "affair",
+    "translation": "інтрижка"
+  },
+  {
+    "word": "bond",
+    "translation": "зв'язок"
+  },
+  {
+    "word": "household",
+    "translation": "родина"
+  },
+  {
+    "word": "divorce",
+    "translation": "розвід"
+  },
+  {
+    "word": "to divorce",
+    "translation": "розводитися"
+  },
+  {
+    "word": "lineage",
+    "translation": "родовід"
+  },
+  {
+    "word": "ancestor",
+    "translation": "предок"
+  },
+  {
+    "word": "ex",
+    "translation": "колишній"
+  },
+  {
+    "word": "extended family",
+    "translation": "розширена сім'я"
+  },
+  {
+    "word": "folks",
+    "translation": "батьки"
+  },
+  {
+    "word": "foster parent",
+    "translation": "прийомний батько"
+  },
+  {
+    "word": "identical twin",
+    "translation": "однояйцевий близнюк"
+  },
+  {
+    "word": "in-law",
+    "translation": "рідня (з боку чоловіка/дружини)"
+  },
+  {
+    "word": "sibling",
+    "translation": "рідний брат"
+  },
+  {
+    "word": "stepbrother",
+    "translation": "зведений брат"
+  },
+  {
+    "word": "stepchild",
+    "translation": "пасинок"
+  },
+  {
+    "word": "stepdaughter",
+    "translation": "пасербиця"
+  },
+  {
+    "word": "stepfather",
+    "translation": "вітчим"
+  },
+  {
+    "word": "stepmother",
+    "translation": "мачуха"
+  },
+  {
+    "word": "stepsister",
+    "translation": "зведена сестра"
+  },
+  {
+    "word": "stepson",
+    "translation": "пасинок"
+  },
+  {
+    "word": "separation",
+    "translation": "розлука"
+  },
+  {
+    "word": "adoption",
+    "translation": "усиновлення"
+  },
+  {
+    "word": "brotherly",
+    "translation": "братерський"
+  },
+  {
+    "word": "close-knit",
+    "translation": "згуртований"
+  },
+  {
+    "word": "to adopt",
+    "translation": "усиновити"
+  },
+  {
+    "word": "to cheat on",
+    "translation": "зраджувати"
+  },
+  {
+    "word": "to inherit",
+    "translation": "успадковувати"
+  },
+  {
+    "word": "to stand by",
+    "translation": "залишатися осторон"
+  },
+  {
+    "word": "to take after",
+    "translation": "бути схожим на"
+  },
+  {
+    "word": "to [sing] {sb} to sleep",
+    "translation": "співати перед сном"
+  },
+  {
+    "word": "closely related",
+    "translation": "тісно"
+  },
+  {
+    "word": "artwork",
+    "translation": "ілюстрація"
+  },
+  {
+    "word": "background",
+    "translation": "задній план"
+  },
+  {
+    "word": "foreground",
+    "translation": "передній план"
+  },
+  {
+    "word": "collector",
+    "translation": "колекціонер"
+  },
+  {
+    "word": "graphic artist",
+    "translation": "художник-графік"
+  },
+  {
+    "word": "masterpiece",
+    "translation": "шедевр"
+  },
+  {
+    "word": "exhibit",
+    "translation": "експонат"
+  },
+  {
+    "word": "image",
+    "translation": "зображення"
+  },
+  {
+    "word": "landscape",
+    "translation": "пейзаж"
+  },
+  {
+    "word": "self-portrait",
+    "translation": "автопортрет"
+  },
+  {
+    "word": "subject matter",
+    "translation": "предмет"
+  },
+  {
+    "word": "shade",
+    "translation": "затінок"
+  },
+  {
+    "word": "ink",
+    "translation": "чорнило"
+  },
+  {
+    "word": "oil paint",
+    "translation": "масляна фарба"
+  },
+  {
+    "word": "watercolor",
+    "translation": "акварель"
+  },
+  {
+    "word": "abstract",
+    "translation": "абстрактний"
+  },
+  {
+    "word": "artistic",
+    "translation": "артистичний"
+  },
+  {
+    "word": "original",
+    "translation": "оригінальний"
+  },
+  {
+    "word": "realistic",
+    "translation": "реалістичний"
+  },
+  {
+    "word": "classic",
+    "translation": "класичний"
+  },
+  {
+    "word": "modern",
+    "translation": "сучасний"
+  },
+  {
+    "word": "contemporary",
+    "translation": "сучасний"
+  },
+  {
+    "word": "visual",
+    "translation": "візуальний"
+  },
+  {
+    "word": "vivid",
+    "translation": "яскравий"
+  },
+  {
+    "word": "to depict",
+    "translation": "зображати"
+  },
+  {
+    "word": "to display",
+    "translation": "показувати"
+  },
+  {
+    "word": "to exhibit",
+    "translation": "виставляти"
+  },
+  {
+    "word": "to frame",
+    "translation": "обрамляти"
+  },
+  {
+    "word": "to inspire",
+    "translation": "надихати"
+  },
+  {
+    "word": "to model",
+    "translation": "моделювати"
+  },
+  {
+    "word": "to restore",
+    "translation": "реставрувати"
+  },
+  {
+    "word": "anatomy",
+    "translation": "анатомія"
+  },
+  {
+    "word": "organ",
+    "translation": "орган"
+  },
+  {
+    "word": "Adam's apple",
+    "translation": "адамове яблуко"
+  },
+  {
+    "word": "artery",
+    "translation": "артерія"
+  },
+  {
+    "word": "blood vessel",
+    "translation": "кровоносна судина"
+  },
+  {
+    "word": "cell",
+    "translation": "клітина"
+  },
+  {
+    "word": "heartbeat",
+    "translation": "серцебиття"
+  },
+  {
+    "word": "scalp",
+    "translation": "шкіра голови"
+  },
+  {
+    "word": "collarbone",
+    "translation": "ключиця"
+  },
+  {
+    "word": "breast",
+    "translation": "груди"
+  },
+  {
+    "word": "abdomen",
+    "translation": "живіт"
+  },
+  {
+    "word": "digestive system",
+    "translation": "травна система"
+  },
+  {
+    "word": "immune system",
+    "translation": "імунна система"
+  },
+  {
+    "word": "belly",
+    "translation": "черево"
+  },
+  {
+    "word": "belly button",
+    "translation": "пупок"
+  },
+  {
+    "word": "intestine",
+    "translation": "кишка"
+  },
+  {
+    "word": "gallbladder",
+    "translation": "жовчний міхур"
+  },
+  {
+    "word": "bladder",
+    "translation": "сечовий міхур"
+  },
+  {
+    "word": "buttock",
+    "translation": "сідниця"
+  },
+  {
+    "word": "spine",
+    "translation": "хребет"
+  },
+  {
+    "word": "calf",
+    "translation": "ікра"
+  },
+  {
+    "word": "shin",
+    "translation": "голінка"
+  },
+  {
+    "word": "big toe",
+    "translation": "великий палець ноги"
+  },
+  {
+    "word": "pinky",
+    "translation": "мізинець"
+  },
+  {
+    "word": "eyelid",
+    "translation": "повіка"
+  },
+  {
+    "word": "jaw",
+    "translation": "щелепа"
+  },
+  {
+    "word": "vein",
+    "translation": "вена"
+  },
+  {
+    "word": "nostril",
+    "translation": "ніздря"
+  },
+  {
+    "word": "eyebrow",
+    "translation": "брова"
+  },
+  {
+    "word": "kidney stone",
+    "translation": "нирковий камінь"
+  },
+  {
+    "word": "agency",
+    "translation": "агентство"
+  },
+  {
+    "word": "corporation",
+    "translation": "корпорація"
+  },
+  {
+    "word": "board",
+    "translation": "правління"
+  },
+  {
+    "word": "chairman",
+    "translation": "голова"
+  },
+  {
+    "word": "entrepreneur",
+    "translation": "підприємець"
+  },
+  {
+    "word": "clerk",
+    "translation": "діловод"
+  },
+  {
+    "word": "draft",
+    "translation": "чернетка"
+  },
+  {
+    "word": "income",
+    "translation": "дохід"
+  },
+  {
+    "word": "insurance",
+    "translation": "страхування"
+  },
+  {
+    "word": "market research",
+    "translation": "дослідження ринку"
+  },
+  {
+    "word": "to contract",
+    "translation": "укладати контракт"
+  },
+  {
+    "word": "to establish",
+    "translation": "заснувати"
+  },
+  {
+    "word": "to found",
+    "translation": "засновувати"
+  },
+  {
+    "word": "to fund",
+    "translation": "фінансувати"
+  },
+  {
+    "word": "to manufacture",
+    "translation": "виготовляти"
+  },
+  {
+    "word": "to launch",
+    "translation": "запустити"
+  },
+  {
+    "word": "to ship",
+    "translation": "відвантажувати"
+  },
+  {
+    "word": "to sponsor",
+    "translation": "спонсорувати"
+  },
+  {
+    "word": "strategy",
+    "translation": "стратегія"
+  },
+  {
+    "word": "partnership",
+    "translation": "партнерство"
+  },
+  {
+    "word": "profit margin",
+    "translation": "розмір прибутку"
+  },
+  {
+    "word": "stockholder",
+    "translation": "акціонер"
+  },
+  {
+    "word": "union",
+    "translation": "профспілка"
+  },
+  {
+    "word": "tax evasion",
+    "translation": "ухиляння від податків"
+  },
+  {
+    "word": "shipment",
+    "translation": "поставка"
+  },
+  {
+    "word": "fortune",
+    "translation": "статок"
+  },
+  {
+    "word": "savings",
+    "translation": "заощадження"
+  },
+  {
+    "word": "wealthy",
+    "translation": "багатий"
+  },
+  {
+    "word": "to come down",
+    "translation": "знизитися"
+  },
+  {
+    "word": "to live on",
+    "translation": "жити на"
+  },
+  {
+    "word": "to pay off",
+    "translation": "розплатитися"
+  },
+  {
+    "word": "to set aside",
+    "translation": "відкладати"
+  },
+  {
+    "word": "discount",
+    "translation": "знижка"
+  },
+  {
+    "word": "fee",
+    "translation": "гонорар"
+  },
+  {
+    "word": "lending",
+    "translation": "кредитование"
+  },
+  {
+    "word": "senior",
+    "translation": "старший"
+  },
+  {
+    "word": "junior",
+    "translation": "молодший"
+  },
+  {
+    "word": "to speak",
+    "translation": "виступати з промовою"
+  },
+  {
+    "word": "chief executive officer",
+    "translation": "генеральний директор"
+  },
+  {
+    "word": "to capture",
+    "translation": "захопити"
+  },
+  {
+    "word": "to expose",
+    "translation": "викривати"
+  },
+  {
+    "word": "to get away with",
+    "translation": "уникати покарання"
+  },
+  {
+    "word": "to monitor",
+    "translation": "слідкувати"
+  },
+  {
+    "word": "to pursue",
+    "translation": "переслідувати"
+  },
+  {
+    "word": "to resist",
+    "translation": "супротивлятися"
+  },
+  {
+    "word": "to sentence",
+    "translation": "засуджувати"
+  },
+  {
+    "word": "to traffic",
+    "translation": "незаконно торгувати"
+  },
+  {
+    "word": "to witness",
+    "translation": "засвідчувати"
+  },
+  {
+    "word": "arrest",
+    "translation": "арешт"
+  },
+  {
+    "word": "bulletproof vest",
+    "translation": "куленепробивний жилет"
+  },
+  {
+    "word": "community service",
+    "translation": "громадські роботи"
+  },
+  {
+    "word": "cell",
+    "translation": "камера"
+  },
+  {
+    "word": "jail",
+    "translation": "тюрма"
+  },
+  {
+    "word": "life sentence",
+    "translation": "довічне ув'язнення"
+  },
+  {
+    "word": "crime",
+    "translation": "злочин"
+  },
+  {
+    "word": "eyewitness",
+    "translation": "очевидець"
+  },
+  {
+    "word": "offender",
+    "translation": "злочинець"
+  },
+  {
+    "word": "drug dealer",
+    "translation": "торговець наркотиками"
+  },
+  {
+    "word": "fraud",
+    "translation": "шахрайство"
+  },
+  {
+    "word": "gang",
+    "translation": "банда"
+  },
+  {
+    "word": "pickpocket",
+    "translation": "кишеньковий злодій"
+  },
+  {
+    "word": "bombing",
+    "translation": "бомбардування"
+  },
+  {
+    "word": "burglary",
+    "translation": "крадіжка із зломом"
+  },
+  {
+    "word": "drunk driving",
+    "translation": "п'яне водіння"
+  },
+  {
+    "word": "identity theft",
+    "translation": "крадіжка особистих даних"
+  },
+  {
+    "word": "robbery",
+    "translation": "пограбування"
+  },
+  {
+    "word": "shooting",
+    "translation": "стрільба"
+  },
+  {
+    "word": "shoplifting",
+    "translation": "магазинна крадіжка"
+  },
+  {
+    "word": "terrorism",
+    "translation": "тероризм"
+  },
+  {
+    "word": "vandalism",
+    "translation": "вандалізм"
+  },
+  {
+    "word": "violence",
+    "translation": "насильство"
+  },
+  {
+    "word": "to break out",
+    "translation": "втікати"
+  },
+  {
+    "word": "to hang",
+    "translation": "вішати"
+  },
+  {
+    "word": "break",
+    "translation": "втеча"
+  },
+  {
+    "word": "grass",
+    "translation": "марихуана"
+  },
+  {
+    "word": "narc",
+    "translation": "нарк"
+  },
+  {
+    "word": "stoned",
+    "translation": "обкурений"
+  },
+  {
+    "word": "to trip",
+    "translation": "запинатися"
+  },
+  {
+    "word": "breathalyzer",
+    "translation": "алкотестер"
+  },
+  {
+    "word": "to disobey",
+    "translation": "не слухатися"
+  },
+  {
+    "word": "to lock away",
+    "translation": "замкнути"
+  },
+  {
+    "word": "dead to rights",
+    "translation": "на місці злочину"
+  },
+  {
+    "word": "scam",
+    "translation": "шахрайство"
+  },
+  {
+    "word": "forensics",
+    "translation": "криміналістика"
+  },
+  {
+    "word": "to scam",
+    "translation": "обманювати"
+  },
+  {
+    "word": "to account",
+    "translation": "враховувати"
+  },
+  {
+    "word": "to accuse",
+    "translation": "винити"
+  },
+  {
+    "word": "to challenge",
+    "translation": "кинь послугу"
+  },
+  {
+    "word": "to suspect",
+    "translation": "підозрювати"
+  },
+  {
+    "word": "case",
+    "translation": "справа"
+  },
+  {
+    "word": "family court",
+    "translation": "сімейний суд"
+  },
+  {
+    "word": "jury",
+    "translation": "журі"
+  },
+  {
+    "word": "trial",
+    "translation": "судовий розгляд"
+  },
+  {
+    "word": "justice",
+    "translation": "справедливість"
+  },
+  {
+    "word": "injustice",
+    "translation": "несправедливість"
+  },
+  {
+    "word": "strict",
+    "translation": "суворий"
+  },
+  {
+    "word": "legal",
+    "translation": "юридичний"
+  },
+  {
+    "word": "legally",
+    "translation": "юридично"
+  },
+  {
+    "word": "valid",
+    "translation": "дійсний"
+  },
+  {
+    "word": "regulation",
+    "translation": "регулювання"
+  },
+  {
+    "word": "to judge",
+    "translation": "судити"
+  },
+  {
+    "word": "authority",
+    "translation": "влада"
+  },
+  {
+    "word": "inspector",
+    "translation": "інспектор"
+  },
+  {
+    "word": "clause",
+    "translation": "пункт"
+  },
+  {
+    "word": "claim",
+    "translation": "заявка"
+  },
+  {
+    "word": "bill",
+    "translation": "законопроект"
+  },
+  {
+    "word": "action",
+    "translation": "судова справа"
+  },
+  {
+    "word": "to appeal",
+    "translation": "апелювати"
+  },
+  {
+    "word": "bail",
+    "translation": "застава"
+  },
+  {
+    "word": "brief",
+    "translation": "короткий виклад"
+  },
+  {
+    "word": "charge",
+    "translation": "обвинувачення"
+  },
+  {
+    "word": "to charge",
+    "translation": "обвинувачувати"
+  },
+  {
+    "word": "to defend",
+    "translation": "захищати"
+  },
+  {
+    "word": "to file",
+    "translation": "подавати заяву"
+  },
+  {
+    "word": "to issue",
+    "translation": "робити попередження"
+  },
+  {
+    "word": "to prohibit",
+    "translation": "забороняти"
+  },
+  {
+    "word": "prohibition",
+    "translation": "заборона"
+  },
+  {
+    "word": "to try",
+    "translation": "судити"
+  },
+  {
+    "word": "to break",
+    "translation": "порушувати закон"
+  },
+  {
+    "word": "to chair",
+    "translation": "головувати"
+  },
+  {
+    "word": "to get away",
+    "translation": "втікати"
+  },
+  {
+    "word": "to require",
+    "translation": "вимагати"
+  },
+  {
+    "word": "to disqualify",
+    "translation": "дискваліфікувати"
+  },
+  {
+    "word": "judgment",
+    "translation": "судження"
+  },
+  {
+    "word": "criminal record",
+    "translation": "злочинне минуле"
+  },
+  {
+    "word": "biodiversity",
+    "translation": "біологічна різноманітність"
+  },
+  {
+    "word": "environmentalist",
+    "translation": "захисник навколишнього середовища"
+  },
+  {
+    "word": "conservation",
+    "translation": "збереження"
+  },
+  {
+    "word": "deforestation",
+    "translation": "вирубування лісів"
+  },
+  {
+    "word": "eclipse",
+    "translation": "затемнення"
+  },
+  {
+    "word": "solar",
+    "translation": "сонячний"
+  },
+  {
+    "word": "lunar",
+    "translation": "місячний"
+  },
+  {
+    "word": "moonlight",
+    "translation": "місячне світло"
+  },
+  {
+    "word": "northern lights",
+    "translation": "північне сяйво"
+  },
+  {
+    "word": "to float",
+    "translation": "плавати"
+  },
+  {
+    "word": "tide",
+    "translation": "приплив і відлив"
+  },
+  {
+    "word": "steam",
+    "translation": "пара"
+  },
+  {
+    "word": "sunlight",
+    "translation": "сонячне світло"
+  },
+  {
+    "word": "dawn",
+    "translation": "світанок"
+  },
+  {
+    "word": "eruption",
+    "translation": "виверження"
+  },
+  {
+    "word": "volcanic",
+    "translation": "вулканічний"
+  },
+  {
+    "word": "lava",
+    "translation": "лава"
+  },
+  {
+    "word": "landslide",
+    "translation": "зсув"
+  },
+  {
+    "word": "ecology",
+    "translation": "екологія"
+  },
+  {
+    "word": "ecosystem",
+    "translation": "екосистема"
+  },
+  {
+    "word": "nonrenewable",
+    "translation": "невідновлюваний"
+  },
+  {
+    "word": "hydroelectric",
+    "translation": "гідроелектричний"
+  },
+  {
+    "word": "turbine",
+    "translation": "турбіна"
+  },
+  {
+    "word": "alternative energy",
+    "translation": "Альтернативна енергетика"
+  },
+  {
+    "word": "fume",
+    "translation": "перегар"
+  },
+  {
+    "word": "to preserve",
+    "translation": "зберегти"
+  },
+  {
+    "word": "slope",
+    "translation": "схил"
+  },
+  {
+    "word": "pitch-black",
+    "translation": "чорні як смола"
+  },
+  {
+    "word": "sub-zero",
+    "translation": "нижче нуля"
+  },
+  {
+    "word": "domestic",
+    "translation": "внутрішній"
+  },
+  {
+    "word": "federal",
+    "translation": "федеральний"
+  },
+  {
+    "word": "independent",
+    "translation": "незалежний"
+  },
+  {
+    "word": "official",
+    "translation": "офіційний"
+  },
+  {
+    "word": "presidential",
+    "translation": "президентський"
+  },
+  {
+    "word": "revolution",
+    "translation": "революція"
+  },
+  {
+    "word": "revolutionary",
+    "translation": "революційний"
+  },
+  {
+    "word": "congress",
+    "translation": "конгрес"
+  },
+  {
+    "word": "conservative",
+    "translation": "консерватор"
+  },
+  {
+    "word": "Conservative Party",
+    "translation": "Консервативна партія"
+  },
+  {
+    "word": "Republican Party",
+    "translation": "республіканська партія"
+  },
+  {
+    "word": "democrat",
+    "translation": "демократ"
+  },
+  {
+    "word": "Democratic Party",
+    "translation": "демократична партія"
+  },
+  {
+    "word": "labor party",
+    "translation": "лейбористська партія"
+  },
+  {
+    "word": "to back",
+    "translation": "підтримувати"
+  },
+  {
+    "word": "to debate",
+    "translation": "дискутувати"
+  },
+  {
+    "word": "to govern",
+    "translation": "правити"
+  },
+  {
+    "word": "government",
+    "translation": "уряд"
+  },
+  {
+    "word": "democracy",
+    "translation": "демократія"
+  },
+  {
+    "word": "dictatorship",
+    "translation": "диктатура"
+  },
+  {
+    "word": "kingdom",
+    "translation": "царство"
+  },
+  {
+    "word": "monarchy",
+    "translation": "монархія"
+  },
+  {
+    "word": "independence",
+    "translation": "незалежність"
+  },
+  {
+    "word": "human right",
+    "translation": "право людини"
+  },
+  {
+    "word": "nation",
+    "translation": "нація"
+  },
+  {
+    "word": "to plot",
+    "translation": "замишляти"
+  },
+  {
+    "word": "state",
+    "translation": "область"
+  },
+  {
+    "word": "majority",
+    "translation": "більшість"
+  },
+  {
+    "word": "minister",
+    "translation": "міністр"
+  },
+  {
+    "word": "secretary",
+    "translation": "міністр"
+  },
+  {
+    "word": "spokesperson",
+    "translation": "прес-секретар"
+  },
+  {
+    "word": "negotiation",
+    "translation": "переговори"
+  },
+  {
+    "word": "opposition",
+    "translation": "опозиція"
+  },
+  {
+    "word": "policy",
+    "translation": "політика"
+  },
+  {
+    "word": "presidency",
+    "translation": "президентство"
+  },
+  {
+    "word": "to run for",
+    "translation": "балотуватися"
+  },
+  {
+    "word": "seat",
+    "translation": "місце"
+  },
+  {
+    "word": "voting",
+    "translation": "голосування"
+  },
+  {
+    "word": "territory",
+    "translation": "територія"
+  },
+  {
+    "word": "to negotiate",
+    "translation": "переговір"
+  },
+  {
+    "word": "conspiracy",
+    "translation": "змова"
+  },
+  {
+    "word": "crackdown",
+    "translation": "репресії"
+  },
+  {
+    "word": "repression",
+    "translation": "репресії"
+  },
+  {
+    "word": "prime minister",
+    "translation": "прем'єр-міністр"
+  },
+  {
+    "word": "Department of Homeland Security",
+    "translation": "Міністерство внутрішньої безпеки"
+  },
+  {
+    "word": "senate",
+    "translation": "сенат"
+  },
+  {
+    "word": "to credit",
+    "translation": "кредитувати"
+  },
+  {
+    "word": "economy",
+    "translation": "економіка"
+  },
+  {
+    "word": "economic",
+    "translation": "економічний"
+  },
+  {
+    "word": "accounting",
+    "translation": "бухгалтерський облік"
+  },
+  {
+    "word": "asset",
+    "translation": "ресурс"
+  },
+  {
+    "word": "budget",
+    "translation": "бюджет"
+  },
+  {
+    "word": "capital",
+    "translation": "капітал"
+  },
+  {
+    "word": "debit",
+    "translation": "дебет"
+  },
+  {
+    "word": "finance",
+    "translation": "фінанси"
+  },
+  {
+    "word": "investment",
+    "translation": "інвестиція"
+  },
+  {
+    "word": "financing",
+    "translation": "фінансування"
+  },
+  {
+    "word": "borrowing",
+    "translation": "запозичення"
+  },
+  {
+    "word": "debt",
+    "translation": "борг"
+  },
+  {
+    "word": "grant",
+    "translation": "надання"
+  },
+  {
+    "word": "loan",
+    "translation": "позика"
+  },
+  {
+    "word": "to possess",
+    "translation": "володіти"
+  },
+  {
+    "word": "distribution",
+    "translation": "дистрибуція"
+  },
+  {
+    "word": "inflation",
+    "translation": "інфляція"
+  },
+  {
+    "word": "welfare",
+    "translation": "Соціальне забезпечення"
+  },
+  {
+    "word": "profit",
+    "translation": "прибуток"
+  },
+  {
+    "word": "standard of living",
+    "translation": "рівень життя"
+  },
+  {
+    "word": "balance",
+    "translation": "баланс"
+  },
+  {
+    "word": "bank statement",
+    "translation": "банківська виписка"
+  },
+  {
+    "word": "collapse",
+    "translation": "колапс"
+  },
+  {
+    "word": "to collapse",
+    "translation": "обвалитися"
+  },
+  {
+    "word": "decrease",
+    "translation": "зменшення"
+  },
+  {
+    "word": "loss",
+    "translation": "збиток"
+  },
+  {
+    "word": "analyst",
+    "translation": "аналітик"
+  },
+  {
+    "word": "banker",
+    "translation": "банкір"
+  },
+  {
+    "word": "to price",
+    "translation": "цінувати"
+  },
+  {
+    "word": "to purchase",
+    "translation": "придбати"
+  },
+  {
+    "word": "rate",
+    "translation": "ставка"
+  },
+  {
+    "word": "to rip off",
+    "translation": "обраховувати"
+  },
+  {
+    "word": "rip-off",
+    "translation": "обдиралівка"
+  },
+  {
+    "word": "bull",
+    "translation": "бик"
+  },
+  {
+    "word": "bear",
+    "translation": "медведь"
+  },
+  {
+    "word": "to run out",
+    "translation": "вичерпати"
+  },
+  {
+    "word": "automated teller machine",
+    "translation": "банкомат"
+  },
+  {
+    "word": "refund",
+    "translation": "повернення"
+  },
+  {
+    "word": "recipe",
+    "translation": "рецепт"
+  },
+  {
+    "word": "ingredient",
+    "translation": "інгредієнт"
+  },
+  {
+    "word": "to beat",
+    "translation": "збивати"
+  },
+  {
+    "word": "to chop",
+    "translation": "нарізати"
+  },
+  {
+    "word": "to garnish",
+    "translation": "гарнірувати"
+  },
+  {
+    "word": "to grill",
+    "translation": "смажити на грилі"
+  },
+  {
+    "word": "to heat",
+    "translation": "нагрівати"
+  },
+  {
+    "word": "to marinate",
+    "translation": "маринувати"
+  },
+  {
+    "word": "to peel",
+    "translation": "почистити"
+  },
+  {
+    "word": "to poach",
+    "translation": "варити"
+  },
+  {
+    "word": "to roast",
+    "translation": "смажитися"
+  },
+  {
+    "word": "to slice",
+    "translation": "різати"
+  },
+  {
+    "word": "to stir",
+    "translation": "розмішати"
+  },
+  {
+    "word": "to toast",
+    "translation": "підсмажувати"
+  },
+  {
+    "word": "counter",
+    "translation": "Кухонний фон"
+  },
+  {
+    "word": "utensil",
+    "translation": "начиння"
+  },
+  {
+    "word": "barbecue",
+    "translation": "мангал"
+  },
+  {
+    "word": "blender",
+    "translation": "блендер"
+  },
+  {
+    "word": "frying pan",
+    "translation": "сковорода"
+  },
+  {
+    "word": "wok",
+    "translation": "вок"
+  },
+  {
+    "word": "mixer",
+    "translation": "міксер"
+  },
+  {
+    "word": "lid",
+    "translation": "кришка"
+  },
+  {
+    "word": "mixing bowl",
+    "translation": "чаша для змішування"
+  },
+  {
+    "word": "wooden spoon",
+    "translation": "дерев'яна ложка"
+  },
+  {
+    "word": "scale",
+    "translation": "терези"
+  },
+  {
+    "word": "pinch",
+    "translation": "щіпка"
+  },
+  {
+    "word": "cupful",
+    "translation": "повна чашка"
+  },
+  {
+    "word": "spoonful",
+    "translation": "повна ложка"
+  },
+  {
+    "word": "institution",
+    "translation": "установа"
+  },
+  {
+    "word": "grade school",
+    "translation": "початкова школа"
+  },
+  {
+    "word": "graduate school",
+    "translation": "випускник школи"
+  },
+  {
+    "word": "junior high school",
+    "translation": "неповна середня школа"
+  },
+  {
+    "word": "senior high school",
+    "translation": "старша середня школа"
+  },
+  {
+    "word": "summer school",
+    "translation": "літня школа"
+  },
+  {
+    "word": "prom",
+    "translation": "випускний вечір"
+  },
+  {
+    "word": "to enroll",
+    "translation": "реєструватися"
+  },
+  {
+    "word": "to register",
+    "translation": "реєструватися"
+  },
+  {
+    "word": "locker",
+    "translation": "шафка з замком"
+  },
+  {
+    "word": "roommate",
+    "translation": "сусід по кімнаті"
+  },
+  {
+    "word": "discipline",
+    "translation": "дисципліна"
+  },
+  {
+    "word": "major",
+    "translation": "майор"
+  },
+  {
+    "word": "certificate",
+    "translation": "сертифікат"
+  },
+  {
+    "word": "master",
+    "translation": "магістр"
+  },
+  {
+    "word": "to master",
+    "translation": "опанувати"
+  },
+  {
+    "word": "Doctor of Philosophy",
+    "translation": "доктор філософії"
+  },
+  {
+    "word": "postgraduate",
+    "translation": "аспірант"
+  },
+  {
+    "word": "sponsor",
+    "translation": "спонсор"
+  },
+  {
+    "word": "trainee",
+    "translation": "стажер"
+  },
+  {
+    "word": "to tutor",
+    "translation": "навчати"
+  },
+  {
+    "word": "thesis",
+    "translation": "дисертація"
+  },
+  {
+    "word": "scholarship",
+    "translation": "стипендія"
+  },
+  {
+    "word": "seminar",
+    "translation": "семінар"
+  },
+  {
+    "word": "curriculum",
+    "translation": "учбовий план"
+  },
+  {
+    "word": "optional",
+    "translation": "необов'язковий"
+  },
+  {
+    "word": "to grade",
+    "translation": "ставити оцінку"
+  },
+  {
+    "word": "coursework",
+    "translation": "курсова робота"
+  },
+  {
+    "word": "textbook",
+    "translation": "підручник"
+  },
+  {
+    "word": "workbook",
+    "translation": "робочий зошит"
+  },
+  {
+    "word": "multiple-choice",
+    "translation": "множинний вибір"
+  },
+  {
+    "word": "tutorial",
+    "translation": "навчальний посібник"
+  },
+  {
+    "word": "dormitory",
+    "translation": "гуртожиток"
+  },
+  {
+    "word": "buttery",
+    "translation": "буфет"
+  },
+  {
+    "word": "mortgage",
+    "translation": "іпотека"
+  },
+  {
+    "word": "property",
+    "translation": "власність"
+  },
+  {
+    "word": "skyscraper",
+    "translation": "хмарочос"
+  },
+  {
+    "word": "mansion",
+    "translation": "особняк"
+  },
+  {
+    "word": "condominium",
+    "translation": "ОСББ"
+  },
+  {
+    "word": "penthouse",
+    "translation": "пентхаус"
+  },
+  {
+    "word": "duplex",
+    "translation": "дуплекс"
+  },
+  {
+    "word": "complex",
+    "translation": "комплекс"
+  },
+  {
+    "word": "housing development",
+    "translation": "житловий розвиток"
+  },
+  {
+    "word": "row house",
+    "translation": "рядний будинок"
+  },
+  {
+    "word": "houseboat",
+    "translation": "плавучий будинок"
+  },
+  {
+    "word": "attic",
+    "translation": "горище"
+  },
+  {
+    "word": "basement",
+    "translation": "підвал"
+  },
+  {
+    "word": "cellar",
+    "translation": "підвал"
+  },
+  {
+    "word": "nursery",
+    "translation": "ясла"
+  },
+  {
+    "word": "patio",
+    "translation": "патіо"
+  },
+  {
+    "word": "rooftop",
+    "translation": "дах"
+  },
+  {
+    "word": "doorbell",
+    "translation": "дверний дзвінок"
+  },
+  {
+    "word": "doorstep",
+    "translation": "поріг"
+  },
+  {
+    "word": "doorway",
+    "translation": "дверний отвір"
+  },
+  {
+    "word": "air conditioning",
+    "translation": "кондиціонер"
+  },
+  {
+    "word": "central heating",
+    "translation": "центральне опалення"
+  },
+  {
+    "word": "smoke alarm",
+    "translation": "пожежна сигналізація"
+  },
+  {
+    "word": "bureau",
+    "translation": "комод"
+  },
+  {
+    "word": "drawer",
+    "translation": "шухляда"
+  },
+  {
+    "word": "garbage can",
+    "translation": "сміттєвий ящик"
+  },
+  {
+    "word": "chore",
+    "translation": "рутинна робота"
+  },
+  {
+    "word": "to mop",
+    "translation": "витирати"
+  },
+  {
+    "word": "to scrub",
+    "translation": "відтирати"
+  },
+  {
+    "word": "to sweep",
+    "translation": "підмітати"
+  },
+  {
+    "word": "to vacuum",
+    "translation": "пилососити"
+  },
+  {
+    "word": "to wipe",
+    "translation": "витирати"
+  },
+  {
+    "word": "to furnish",
+    "translation": "меблювати"
+  },
+  {
+    "word": "to coat",
+    "translation": "покривати"
+  },
+  {
+    "word": "blueprint",
+    "translation": "проект"
+  },
+  {
+    "word": "arrogant",
+    "translation": "зарозумілий"
+  },
+  {
+    "word": "bold",
+    "translation": "сміливий"
+  },
+  {
+    "word": "caring",
+    "translation": "турботливий"
+  },
+  {
+    "word": "decent",
+    "translation": "порядний"
+  },
+  {
+    "word": "dishonest",
+    "translation": "нечесний"
+  },
+  {
+    "word": "easy-going",
+    "translation": "безтурботний"
+  },
+  {
+    "word": "energetic",
+    "translation": "енергійний"
+  },
+  {
+    "word": "enthusiastic",
+    "translation": "захоплений"
+  },
+  {
+    "word": "dynamic",
+    "translation": "динамічний"
+  },
+  {
+    "word": "forgetful",
+    "translation": "забутливий"
+  },
+  {
+    "word": "greedy",
+    "translation": "жадібний"
+  },
+  {
+    "word": "icy",
+    "translation": "крижаний"
+  },
+  {
+    "word": "impatient",
+    "translation": "нетерплячий"
+  },
+  {
+    "word": "lively",
+    "translation": "живий"
+  },
+  {
+    "word": "logical",
+    "translation": "логічний"
+  },
+  {
+    "word": "modest",
+    "translation": "скромний"
+  },
+  {
+    "word": "moody",
+    "translation": "примхливий"
+  },
+  {
+    "word": "moral",
+    "translation": "моральний"
+  },
+  {
+    "word": "nosy",
+    "translation": "допитливий"
+  },
+  {
+    "word": "optimistic",
+    "translation": "оптимістичний"
+  },
+  {
+    "word": "pessimistic",
+    "translation": "песимістичний"
+  },
+  {
+    "word": "passionate",
+    "translation": "пристрасний"
+  },
+  {
+    "word": "practical",
+    "translation": "практичний"
+  },
+  {
+    "word": "reasonable",
+    "translation": "розумний"
+  },
+  {
+    "word": "respectable",
+    "translation": "респектабельний"
+  },
+  {
+    "word": "self-confident",
+    "translation": "самовпевнений"
+  },
+  {
+    "word": "sensitive",
+    "translation": "чутливий"
+  },
+  {
+    "word": "sincere",
+    "translation": "щирий"
+  },
+  {
+    "word": "strong-willed",
+    "translation": "вольовий"
+  },
+  {
+    "word": "sympathetic",
+    "translation": "співчутливий"
+  },
+  {
+    "word": "unreliable",
+    "translation": "ненадійний"
+  },
+  {
+    "word": "unstable",
+    "translation": "нестабільний"
+  },
+  {
+    "word": "unsure",
+    "translation": "невпевнений"
+  },
+  {
+    "word": "strict",
+    "translation": "суворий"
+  },
+  {
+    "word": "violent",
+    "translation": "жорстокий"
+  },
+  {
+    "word": "lenient",
+    "translation": "поблажливий"
+  },
+  {
+    "word": "tough",
+    "translation": "жорсткий"
+  },
+  {
+    "word": "tight-fisted",
+    "translation": "скупий"
+  },
+  {
+    "word": "adorable",
+    "translation": "чарівний"
+  },
+  {
+    "word": "beloved",
+    "translation": "улюблений"
+  },
+  {
+    "word": "committed",
+    "translation": "прихильний"
+  },
+  {
+    "word": "enchanted",
+    "translation": "зачарований"
+  },
+  {
+    "word": "hot",
+    "translation": "гарячий"
+  },
+  {
+    "word": "loved",
+    "translation": "коханий"
+  },
+  {
+    "word": "loving",
+    "translation": "люблячий"
+  },
+  {
+    "word": "lovesick",
+    "translation": "стомлений від кохання"
+  },
+  {
+    "word": "admirer",
+    "translation": "поклонник"
+  },
+  {
+    "word": "(other|better) half",
+    "translation": "супруг"
+  },
+  {
+    "word": "lovebirds",
+    "translation": "закоханий"
+  },
+  {
+    "word": "significant other",
+    "translation": "значимий інший"
+  },
+  {
+    "word": "anniversary",
+    "translation": "річниця"
+  },
+  {
+    "word": "bridegroom",
+    "translation": "жених"
+  },
+  {
+    "word": "to propose",
+    "translation": "робити пропозицію"
+  },
+  {
+    "word": "proposal",
+    "translation": "пропозиція"
+  },
+  {
+    "word": "broken heart",
+    "translation": "розбите серце"
+  },
+  {
+    "word": "date",
+    "translation": "свідання"
+  },
+  {
+    "word": "eye candy",
+    "translation": "красивих зображень"
+  },
+  {
+    "word": "Prince Charming",
+    "translation": "чарівний принц"
+  },
+  {
+    "word": "love affair",
+    "translation": "любовний зв'язок"
+  },
+  {
+    "word": "passion",
+    "translation": "страсть"
+  },
+  {
+    "word": "puppy love",
+    "translation": "дитяче кохання"
+  },
+  {
+    "word": "Valentine",
+    "translation": "валентинка"
+  },
+  {
+    "word": "to adore",
+    "translation": "обожнювати"
+  },
+  {
+    "word": "to ask out",
+    "translation": "запросити на побачення"
+  },
+  {
+    "word": "to [fall] in love",
+    "translation": "закохатися"
+  },
+  {
+    "word": "to go out",
+    "translation": "зустрічатися"
+  },
+  {
+    "word": "to woo",
+    "translation": "доглядати"
+  },
+  {
+    "word": "to hook up",
+    "translation": "переспати"
+  },
+  {
+    "word": "to [have] a crush on {sb}",
+    "translation": "Мати романтичне захоплення з кимось"
+  },
+  {
+    "word": "hickey",
+    "translation": "засос"
+  },
+  {
+    "word": "acoustic guitar",
+    "translation": "акустична гітара"
+  },
+  {
+    "word": "bass guitar",
+    "translation": "бас-гітара"
+  },
+  {
+    "word": "drumstick",
+    "translation": "барабанна паличка"
+  },
+  {
+    "word": "grand piano",
+    "translation": "рояль"
+  },
+  {
+    "word": "organ",
+    "translation": "орган"
+  },
+  {
+    "word": "trombone",
+    "translation": "тромбон"
+  },
+  {
+    "word": "blues",
+    "translation": "блюз"
+  },
+  {
+    "word": "country music",
+    "translation": "кантрі музика"
+  },
+  {
+    "word": "folk",
+    "translation": "Народна пісня"
+  },
+  {
+    "word": "heavy metal",
+    "translation": "важкий метал"
+  },
+  {
+    "word": "hip-hop",
+    "translation": "хіп хоп"
+  },
+  {
+    "word": "rap",
+    "translation": "реп"
+  },
+  {
+    "word": "rhythm and blues",
+    "translation": "ритм-енд-блюз"
+  },
+  {
+    "word": "rock and roll",
+    "translation": "рок-н-ролл"
+  },
+  {
+    "word": "chorus",
+    "translation": "Хоровий спів"
+  },
+  {
+    "word": "composer",
+    "translation": "композитор"
+  },
+  {
+    "word": "chart",
+    "translation": "музичні чарти"
+  },
+  {
+    "word": "gig",
+    "translation": "концерт"
+  },
+  {
+    "word": "track",
+    "translation": "трек"
+  },
+  {
+    "word": "opera house",
+    "translation": "оперний театр"
+  },
+  {
+    "word": "orchestra",
+    "translation": "оркестр"
+  },
+  {
+    "word": "note",
+    "translation": "ноти"
+  },
+  {
+    "word": "rhythm",
+    "translation": "ритм"
+  },
+  {
+    "word": "tone",
+    "translation": "музичний звук"
+  },
+  {
+    "word": "volume",
+    "translation": "гучність"
+  },
+  {
+    "word": "record player",
+    "translation": "програвач"
+  },
+  {
+    "word": "sound system",
+    "translation": "звукова система"
+  },
+  {
+    "word": "speaker",
+    "translation": "динамік"
+  },
+  {
+    "word": "stereo",
+    "translation": "стереосистеми"
+  },
+  {
+    "word": "to compose",
+    "translation": "складати музику"
+  },
+  {
+    "word": "to conduct",
+    "translation": "диригувати"
+  },
+  {
+    "word": "to release",
+    "translation": "випустити"
+  },
+  {
+    "word": "deafening",
+    "translation": "оглушливий"
+  },
+  {
+    "word": "punk rock",
+    "translation": "панк-рок"
+  },
+  {
+    "word": "attorney",
+    "translation": "адвокат"
+  },
+  {
+    "word": "bartender",
+    "translation": "бармен"
+  },
+  {
+    "word": "cab driver",
+    "translation": "водій таксі"
+  },
+  {
+    "word": "carpenter",
+    "translation": "столяр"
+  },
+  {
+    "word": "cashier",
+    "translation": "касир"
+  },
+  {
+    "word": "caterer",
+    "translation": "постачальник провізії"
+  },
+  {
+    "word": "comedian",
+    "translation": "комедіант"
+  },
+  {
+    "word": "economist",
+    "translation": "економіст"
+  },
+  {
+    "word": "electrician",
+    "translation": "електромонтер"
+  },
+  {
+    "word": "fisherman",
+    "translation": "рибалка"
+  },
+  {
+    "word": "florist",
+    "translation": "флорист"
+  },
+  {
+    "word": "health professional",
+    "translation": "медичний працівник"
+  },
+  {
+    "word": "interpreter",
+    "translation": "усний перекладач"
+  },
+  {
+    "word": "investigator",
+    "translation": "слідчий"
+  },
+  {
+    "word": "librarian",
+    "translation": "бібліотекар"
+  },
+  {
+    "word": "plumber",
+    "translation": "водопровідник"
+  },
+  {
+    "word": "psychologist",
+    "translation": "психолог"
+  },
+  {
+    "word": "security guard",
+    "translation": "охоронець"
+  },
+  {
+    "word": "sheriff",
+    "translation": "шериф"
+  },
+  {
+    "word": "shopkeeper",
+    "translation": "власник магазину"
+  },
+  {
+    "word": "spy",
+    "translation": "шпигун"
+  },
+  {
+    "word": "stylist",
+    "translation": "стиліст"
+  },
+  {
+    "word": "real estate agent",
+    "translation": "ріелтор"
+  },
+  {
+    "word": "travel agent",
+    "translation": "туристичний агент"
+  },
+  {
+    "word": "freelance",
+    "translation": "фрілансер"
+  },
+  {
+    "word": "permanent",
+    "translation": "постійний"
+  },
+  {
+    "word": "self-employed",
+    "translation": "самозайнятий"
+  },
+  {
+    "word": "temporary",
+    "translation": "тимчасовий"
+  },
+  {
+    "word": "voluntary",
+    "translation": "добровільний"
+  },
+  {
+    "word": "out of work",
+    "translation": "безробітний"
+  },
+  {
+    "word": "wage",
+    "translation": "зарплата"
+  },
+  {
+    "word": "golden years",
+    "translation": "золоті роки"
+  },
+  {
+    "word": "age",
+    "translation": "епоха"
+  },
+  {
+    "word": "calendar",
+    "translation": "календар"
+  },
+  {
+    "word": "to schedule",
+    "translation": "планувати"
+  },
+  {
+    "word": "era",
+    "translation": "ера"
+  },
+  {
+    "word": "fortnight",
+    "translation": "два тижні"
+  },
+  {
+    "word": "millennium",
+    "translation": "тисячеліття"
+  },
+  {
+    "word": "time zone",
+    "translation": "часовий пояс"
+  },
+  {
+    "word": "(about|high) time",
+    "translation": "Давно пора"
+  },
+  {
+    "word": "local time",
+    "translation": "місцевий час"
+  },
+  {
+    "word": "chronometer",
+    "translation": "хронометр"
+  },
+  {
+    "word": "hourglass",
+    "translation": "пісковий годинник"
+  },
+  {
+    "word": "pendulum clock",
+    "translation": "механічний годинник"
+  },
+  {
+    "word": "stopwatch",
+    "translation": "секундомір"
+  },
+  {
+    "word": "sundial",
+    "translation": "сонячний годинник"
+  },
+  {
+    "word": "twilight",
+    "translation": "сутінки"
+  },
+  {
+    "word": "lateness",
+    "translation": "запізнення"
+  },
+  {
+    "word": "chronological",
+    "translation": "хронологічний"
+  },
+  {
+    "word": "instant",
+    "translation": "миттєвий"
+  },
+  {
+    "word": "for the moment",
+    "translation": "на цей час"
+  },
+  {
+    "word": "lately",
+    "translation": "нещодавно"
+  },
+  {
+    "word": "day-to-day",
+    "translation": "день за днем"
+  },
+  {
+    "word": "annual",
+    "translation": "щорічний"
+  },
+  {
+    "word": "annually",
+    "translation": "щорічно"
+  },
+  {
+    "word": "monthly",
+    "translation": "щомісячний"
+  },
+  {
+    "word": "weekly",
+    "translation": "щотижневий"
+  },
+  {
+    "word": "momentarily",
+    "translation": "миттєво"
+  },
+  {
+    "word": "now and again",
+    "translation": "час від часу"
+  },
+  {
+    "word": "(every|) now and then",
+    "translation": "часом"
+  },
+  {
+    "word": "overtime",
+    "translation": "понаднормово"
+  },
+  {
+    "word": "later on",
+    "translation": "пізніше"
+  },
+  {
+    "word": "acupuncture",
+    "translation": "акупунктура"
+  },
+  {
+    "word": "clinic",
+    "translation": "клініка"
+  },
+  {
+    "word": "ward",
+    "translation": "палата"
+  },
+  {
+    "word": "emergency room",
+    "translation": "кімната невідкладної допомоги"
+  },
+  {
+    "word": "ENT",
+    "translation": "оториноларингологія"
+  },
+  {
+    "word": "pharmacy",
+    "translation": "аптека"
+  },
+  {
+    "word": "inpatient",
+    "translation": "стаціонарний хворий"
+  },
+  {
+    "word": "outpatient",
+    "translation": "амбулаторний хворий"
+  },
+  {
+    "word": "mental health",
+    "translation": "психічне здоров'я"
+  },
+  {
+    "word": "phobia",
+    "translation": "фобія"
+  },
+  {
+    "word": "specialist",
+    "translation": "фахівець"
+  },
+  {
+    "word": "orthodontist",
+    "translation": "ортодонт"
+  },
+  {
+    "word": "paramedic",
+    "translation": "парамедик"
+  },
+  {
+    "word": "pediatrician",
+    "translation": "педіатр"
+  },
+  {
+    "word": "surgeon",
+    "translation": "хірург"
+  },
+  {
+    "word": "plastic surgeon",
+    "translation": "пластичний хірург"
+  },
+  {
+    "word": "therapist",
+    "translation": "терапевт"
+  },
+  {
+    "word": "procedure",
+    "translation": "процедура"
+  },
+  {
+    "word": "protection",
+    "translation": "захист"
+  },
+  {
+    "word": "transplant",
+    "translation": "пересадка"
+  },
+  {
+    "word": "surgery",
+    "translation": "хірургія"
+  },
+  {
+    "word": "dose",
+    "translation": "доза"
+  },
+  {
+    "word": "painkiller",
+    "translation": "анальгетики"
+  },
+  {
+    "word": "therapy",
+    "translation": "терапія"
+  },
+  {
+    "word": "X-ray",
+    "translation": "рентген"
+  },
+  {
+    "word": "breathing apparatus",
+    "translation": "дихальний апарат"
+  },
+  {
+    "word": "clinical",
+    "translation": "клінічний"
+  },
+  {
+    "word": "to come down with",
+    "translation": "захворіти"
+  },
+  {
+    "word": "to heal",
+    "translation": "зцілити"
+  },
+  {
+    "word": "to [hit] the hay",
+    "translation": "Лягти в ліжко"
+  },
+  {
+    "word": "to implant",
+    "translation": "імплантати"
+  },
+  {
+    "word": "to inject",
+    "translation": "робити укол"
+  },
+  {
+    "word": "to pass out",
+    "translation": "непритомніти"
+  },
+  {
+    "word": "to relieve",
+    "translation": "полегшувати"
+  },
+  {
+    "word": "to scan",
+    "translation": "сканувати"
+  },
+  {
+    "word": "to shower",
+    "translation": "прийняти душ"
+  },
+  {
+    "word": "cuisine",
+    "translation": "кухня"
+  },
+  {
+    "word": "carbohydrate",
+    "translation": "вуглеводи"
+  },
+  {
+    "word": "bagel",
+    "translation": "бублик"
+  },
+  {
+    "word": "baguette",
+    "translation": "французький багет"
+  },
+  {
+    "word": "cereal",
+    "translation": "злак"
+  },
+  {
+    "word": "pastry",
+    "translation": "тістечко"
+  },
+  {
+    "word": "herb",
+    "translation": "трава"
+  },
+  {
+    "word": "beet",
+    "translation": "буряк"
+  },
+  {
+    "word": "green pepper",
+    "translation": "зелений перець"
+  },
+  {
+    "word": "red pepper",
+    "translation": "червоний перець"
+  },
+  {
+    "word": "goat cheese",
+    "translation": "козячий сир"
+  },
+  {
+    "word": "margarine",
+    "translation": "маргарин"
+  },
+  {
+    "word": "sour cream",
+    "translation": "сметана"
+  },
+  {
+    "word": "raspberry",
+    "translation": "малина"
+  },
+  {
+    "word": "spice",
+    "translation": "спеції"
+  },
+  {
+    "word": "sweet potato",
+    "translation": "батат"
+  },
+  {
+    "word": "zucchini",
+    "translation": "кабачок"
+  },
+  {
+    "word": "wheat",
+    "translation": "пшениця"
+  },
+  {
+    "word": "beefsteak",
+    "translation": "біфштекс"
+  },
+  {
+    "word": "kebab",
+    "translation": "кебаб"
+  },
+  {
+    "word": "meatloaf",
+    "translation": "м'ясний рулет"
+  },
+  {
+    "word": "mayonnaise",
+    "translation": "майонез"
+  },
+  {
+    "word": "mustard",
+    "translation": "гірчиця"
+  },
+  {
+    "word": "soy sauce",
+    "translation": "соєвий соус"
+  },
+  {
+    "word": "ketchup",
+    "translation": "кетчуп"
+  },
+  {
+    "word": "vinegar",
+    "translation": "оцет"
+  },
+  {
+    "word": "white sauce",
+    "translation": "білий соус"
+  },
+  {
+    "word": "chewing gum",
+    "translation": "жуйка"
+  },
+  {
+    "word": "hard candy",
+    "translation": "льодяник"
+  },
+  {
+    "word": "lollipop",
+    "translation": "льодяник"
+  },
+  {
+    "word": "popsicle",
+    "translation": "ескімо"
+  },
+  {
+    "word": "pudding",
+    "translation": "пудинг"
+  },
+  {
+    "word": "portion",
+    "translation": "порція"
+  },
+  {
+    "word": "supper",
+    "translation": "вечеря"
+  },
+  {
+    "word": "takeout",
+    "translation": "винос"
+  },
+  {
+    "word": "roll",
+    "translation": "булка"
+  },
+  {
+    "word": "tomato paste",
+    "translation": "томатна паста"
+  },
+  {
+    "word": "driving school",
+    "translation": "автошкола"
+  },
+  {
+    "word": "license number",
+    "translation": "номер ліцензії"
+  },
+  {
+    "word": "motor vehicle",
+    "translation": "моторний транспортний засіб"
+  },
+  {
+    "word": "bumper",
+    "translation": "бампер"
+  },
+  {
+    "word": "emergency brake",
+    "translation": "аварійне гальмо"
+  },
+  {
+    "word": "hood",
+    "translation": "каптур"
+  },
+  {
+    "word": "plate",
+    "translation": "номерний знак"
+  },
+  {
+    "word": "safety belt",
+    "translation": "пасок безпеки"
+  },
+  {
+    "word": "tailpipe",
+    "translation": "вихлопна труба"
+  },
+  {
+    "word": "tank",
+    "translation": "бак"
+  },
+  {
+    "word": "tire",
+    "translation": "шина"
+  },
+  {
+    "word": "trunk",
+    "translation": "багажник"
+  },
+  {
+    "word": "turn signal",
+    "translation": "сигнал повороту"
+  },
+  {
+    "word": "windshield",
+    "translation": "вітрове скло"
+  },
+  {
+    "word": "windshield wiper",
+    "translation": "стеклоочиститель"
+  },
+  {
+    "word": "crash",
+    "translation": "аварія"
+  },
+  {
+    "word": "bend",
+    "translation": "поворот"
+  },
+  {
+    "word": "crossing",
+    "translation": "перехрестя"
+  },
+  {
+    "word": "intersection",
+    "translation": "перехрестя"
+  },
+  {
+    "word": "U-turn",
+    "translation": "розворот"
+  },
+  {
+    "word": "global positioning system",
+    "translation": "GPS-приймач"
+  },
+  {
+    "word": "rush hour",
+    "translation": "година пік"
+  },
+  {
+    "word": "speeding",
+    "translation": "перевищення швидкості"
+  },
+  {
+    "word": "to brake",
+    "translation": "гальмувати"
+  },
+  {
+    "word": "to exit",
+    "translation": "виходити"
+  },
+  {
+    "word": "to pull up",
+    "translation": "пригальмувати"
+  },
+  {
+    "word": "to navigate",
+    "translation": "орієнтуватися"
+  },
+  {
+    "word": "to rush",
+    "translation": "поспішати"
+  },
+  {
+    "word": "to slow",
+    "translation": "сповільнювати"
+  },
+  {
+    "word": "to fuel",
+    "translation": "підтримувати"
+  },
+  {
+    "word": "progress",
+    "translation": "просування"
+  },
+  {
+    "word": "steering wheel",
+    "translation": "кермо"
+  },
+  {
+    "word": "handlebar",
+    "translation": "кермо"
+  },
+  {
+    "word": "zebra crossing",
+    "translation": "пішохідний перехід"
+  },
+  {
+    "word": "gearshift",
+    "translation": "перемикання передач"
+  },
+  {
+    "word": "stoplight",
+    "translation": "стоп-сигнал"
+  },
+  {
+    "word": "road rage",
+    "translation": "дорожня лють"
+  },
+  {
+    "word": "to sip",
+    "translation": "ковтати"
+  },
+  {
+    "word": "to sober up",
+    "translation": "протверезіти"
+  },
+  {
+    "word": "thirst",
+    "translation": "спрага"
+  },
+  {
+    "word": "ice cube",
+    "translation": "кубик льоду"
+  },
+  {
+    "word": "straw",
+    "translation": "соломинка"
+  },
+  {
+    "word": "liquor store",
+    "translation": "магазин алкогольних напоїв"
+  },
+  {
+    "word": "booze",
+    "translation": "випивка"
+  },
+  {
+    "word": "Bloody Mary",
+    "translation": "Кривава Мері"
+  },
+  {
+    "word": "Bourbon",
+    "translation": "бурбон"
+  },
+  {
+    "word": "cider",
+    "translation": "сидр"
+  },
+  {
+    "word": "gin",
+    "translation": "джин"
+  },
+  {
+    "word": "ginger ale",
+    "translation": "імбирний ель"
+  },
+  {
+    "word": "ice tea",
+    "translation": "холодний чай"
+  },
+  {
+    "word": "liquor",
+    "translation": "алкогольний напій"
+  },
+  {
+    "word": "margarita",
+    "translation": "маргарита"
+  },
+  {
+    "word": "martini",
+    "translation": "мартіні"
+  },
+  {
+    "word": "mojito",
+    "translation": "мохіто"
+  },
+  {
+    "word": "refill",
+    "translation": "ще одну склянку"
+  },
+  {
+    "word": "punch",
+    "translation": "пунш"
+  },
+  {
+    "word": "cappuccino",
+    "translation": "капучино"
+  },
+  {
+    "word": "herbal tea",
+    "translation": "трав'яний чай"
+  },
+  {
+    "word": "skim milk",
+    "translation": "знежирене молоко"
+  },
+  {
+    "word": "abbreviation",
+    "translation": "скорочення"
+  },
+  {
+    "word": "article",
+    "translation": "артикль"
+  },
+  {
+    "word": "auxiliary verb",
+    "translation": "допоміжне дієслово"
+  },
+  {
+    "word": "conjunction",
+    "translation": "сполучник"
+  },
+  {
+    "word": "preposition",
+    "translation": "прийменник"
+  },
+  {
+    "word": "proper noun",
+    "translation": "власна назва"
+  },
+  {
+    "word": "pronoun",
+    "translation": "займенник"
+  },
+  {
+    "word": "prefix",
+    "translation": "префікс"
+  },
+  {
+    "word": "suffix",
+    "translation": "суфікс"
+  },
+  {
+    "word": "active",
+    "translation": "дійсна застава"
+  },
+  {
+    "word": "passive",
+    "translation": "пасивний"
+  },
+  {
+    "word": "comparative",
+    "translation": "порівняльний"
+  },
+  {
+    "word": "superlative",
+    "translation": "найвищий ступінь"
+  },
+  {
+    "word": "plural",
+    "translation": "множина"
+  },
+  {
+    "word": "singular",
+    "translation": "однина"
+  },
+  {
+    "word": "grammatical",
+    "translation": "граматичний"
+  },
+  {
+    "word": "irregular",
+    "translation": "неправильний"
+  },
+  {
+    "word": "modal",
+    "translation": "модальній дієслів"
+  },
+  {
+    "word": "conditional",
+    "translation": "умовний"
+  },
+  {
+    "word": "perfect",
+    "translation": "досконала форма дієслова"
+  },
+  {
+    "word": "past participle",
+    "translation": "пасивний дієприкметник"
+  },
+  {
+    "word": "continuous",
+    "translation": "безперервний"
+  },
+  {
+    "word": "progressive",
+    "translation": "прогресивний"
+  },
+  {
+    "word": "collocation",
+    "translation": "сполучення слів"
+  },
+  {
+    "word": "possessive",
+    "translation": "присвійний"
+  },
+  {
+    "word": "pronunciation",
+    "translation": "вимовляння"
+  },
+  {
+    "word": "consonant",
+    "translation": "приголосна буква"
+  },
+  {
+    "word": "vowel",
+    "translation": "голосний звук"
+  },
+  {
+    "word": "stress",
+    "translation": "наголос"
+  },
+  {
+    "word": "tag question",
+    "translation": "розділове запитання"
+  },
+  {
+    "word": "punctuation",
+    "translation": "пунктуація"
+  },
+  {
+    "word": "exclamation point",
+    "translation": "знак оклику"
+  },
+  {
+    "word": "question mark",
+    "translation": "знак питання"
+  },
+  {
+    "word": "comma",
+    "translation": "кома"
+  },
+  {
+    "word": "to spell",
+    "translation": "вимовляти по буквах"
+  },
+  {
+    "word": "double negative",
+    "translation": "подвійний негатив"
+  },
+  {
+    "word": "to border",
+    "translation": "межувати"
+  },
+  {
+    "word": "to honor",
+    "translation": "шанувати"
+  },
+  {
+    "word": "aristocracy",
+    "translation": "аристократія"
+  },
+  {
+    "word": "dynasty",
+    "translation": "династія"
+  },
+  {
+    "word": "empire",
+    "translation": "імперія"
+  },
+  {
+    "word": "Renaissance",
+    "translation": "Ренесанс"
+  },
+  {
+    "word": "the Middle Ages",
+    "translation": "середні віки"
+  },
+  {
+    "word": "castle",
+    "translation": "замок"
+  },
+  {
+    "word": "fortress",
+    "translation": "фортеця"
+  },
+  {
+    "word": "armor",
+    "translation": "броня"
+  },
+  {
+    "word": "coat of arms",
+    "translation": "герб"
+  },
+  {
+    "word": "crown",
+    "translation": "корона"
+  },
+  {
+    "word": "arrow",
+    "translation": "стріла"
+  },
+  {
+    "word": "sword",
+    "translation": "меч"
+  },
+  {
+    "word": "emblem",
+    "translation": "емблема"
+  },
+  {
+    "word": "royal",
+    "translation": "королівський"
+  },
+  {
+    "word": "royalty",
+    "translation": "царство"
+  },
+  {
+    "word": "noble",
+    "translation": "аристократ"
+  },
+  {
+    "word": "nobility",
+    "translation": "дворянство"
+  },
+  {
+    "word": "count",
+    "translation": "граф"
+  },
+  {
+    "word": "countess",
+    "translation": "графиня"
+  },
+  {
+    "word": "knight",
+    "translation": "лицар"
+  },
+  {
+    "word": "duchess",
+    "translation": "герцогиня"
+  },
+  {
+    "word": "king",
+    "translation": "король"
+  },
+  {
+    "word": "queen",
+    "translation": "королева"
+  },
+  {
+    "word": "kingdom",
+    "translation": "королівство"
+  },
+  {
+    "word": "lady",
+    "translation": "пані"
+  },
+  {
+    "word": "majesty",
+    "translation": "величність"
+  },
+  {
+    "word": "lord",
+    "translation": "пан"
+  },
+  {
+    "word": "monarch",
+    "translation": "монарх"
+  },
+  {
+    "word": "prince",
+    "translation": "принц"
+  },
+  {
+    "word": "princess",
+    "translation": "принцеса"
+  },
+  {
+    "word": "Duke",
+    "translation": "герцог"
+  },
+  {
+    "word": "slavery",
+    "translation": "рабовласництво"
+  },
+  {
+    "word": "animation",
+    "translation": "анімація"
+  },
+  {
+    "word": "artificial intelligence",
+    "translation": "Ігровий штучний інтелект"
+  },
+  {
+    "word": "virtual",
+    "translation": "віртуальний"
+  },
+  {
+    "word": "virtual reality",
+    "translation": "віртуальна реальність"
+  },
+  {
+    "word": "programming",
+    "translation": "програмування"
+  },
+  {
+    "word": "bug",
+    "translation": "баг"
+  },
+  {
+    "word": "to code",
+    "translation": "написати код"
+  },
+  {
+    "word": "command",
+    "translation": "команда"
+  },
+  {
+    "word": "instruction",
+    "translation": "інструкція"
+  },
+  {
+    "word": "database",
+    "translation": "база даних"
+  },
+  {
+    "word": "file name",
+    "translation": "ім'я файлу"
+  },
+  {
+    "word": "firewall",
+    "translation": "брандмауер"
+  },
+  {
+    "word": "icon",
+    "translation": "значок"
+  },
+  {
+    "word": "input",
+    "translation": "введення дані"
+  },
+  {
+    "word": "output",
+    "translation": "висновок даних"
+  },
+  {
+    "word": "to crash",
+    "translation": "давати збій"
+  },
+  {
+    "word": "to hack",
+    "translation": "зламувати"
+  },
+  {
+    "word": "to import",
+    "translation": "імпортувати"
+  },
+  {
+    "word": "to export",
+    "translation": "експортувати"
+  },
+  {
+    "word": "to network",
+    "translation": "об'єднувати комп'ютери"
+  },
+  {
+    "word": "to process",
+    "translation": "обробляти"
+  },
+  {
+    "word": "to select",
+    "translation": "вибирати"
+  },
+  {
+    "word": "CD-ROM",
+    "translation": "компакт-диск"
+  },
+  {
+    "word": "disk",
+    "translation": "диск"
+  },
+  {
+    "word": "mouse pad",
+    "translation": "килимок для миші"
+  },
+  {
+    "word": "processor",
+    "translation": "процесор"
+  },
+  {
+    "word": "scanner",
+    "translation": "сканер"
+  },
+  {
+    "word": "touchscreen",
+    "translation": "сенсорний екран"
+  },
+  {
+    "word": "webcam",
+    "translation": "веб-камера"
+  },
+  {
+    "word": "geek",
+    "translation": "зануда"
+  },
+  {
+    "word": "metaverse",
+    "translation": "метавсесвіт"
+  },
+  {
+    "word": "alien",
+    "translation": "інопланетянин"
+  },
+  {
+    "word": "space",
+    "translation": "космос"
+  },
+  {
+    "word": "outer space",
+    "translation": "космічний простір"
+  },
+  {
+    "word": "universe",
+    "translation": "всесвіт"
+  },
+  {
+    "word": "asteroid",
+    "translation": "астероїд"
+  },
+  {
+    "word": "black hole",
+    "translation": "чорна діра"
+  },
+  {
+    "word": "galaxy",
+    "translation": "галактика"
+  },
+  {
+    "word": "solar system",
+    "translation": "сонячна система"
+  },
+  {
+    "word": "Mercury",
+    "translation": "Меркурій"
+  },
+  {
+    "word": "Venus",
+    "translation": "Венера"
+  },
+  {
+    "word": "Mars",
+    "translation": "Марс"
+  },
+  {
+    "word": "Jupiter",
+    "translation": "Юпітер"
+  },
+  {
+    "word": "Saturn",
+    "translation": "Сатурн"
+  },
+  {
+    "word": "Uranus",
+    "translation": "Уран"
+  },
+  {
+    "word": "Neptune",
+    "translation": "Нептун"
+  },
+  {
+    "word": "astronomy",
+    "translation": "астрономія"
+  },
+  {
+    "word": "astronomer",
+    "translation": "астроном"
+  },
+  {
+    "word": "landing",
+    "translation": "посадка"
+  },
+  {
+    "word": "outer",
+    "translation": "зовнішній"
+  },
+  {
+    "word": "orbit",
+    "translation": "орбіта"
+  },
+  {
+    "word": "to orbit",
+    "translation": "рухатися орбітою"
+  },
+  {
+    "word": "rocket",
+    "translation": "ракета"
+  },
+  {
+    "word": "satellite",
+    "translation": "супутник"
+  },
+  {
+    "word": "to launch",
+    "translation": "запускати"
+  },
+  {
+    "word": "takeoff",
+    "translation": "зліт"
+  },
+  {
+    "word": "spacecraft",
+    "translation": "космічний корабель"
+  },
+  {
+    "word": "spaceman",
+    "translation": "космонавт"
+  },
+  {
+    "word": "spaceship",
+    "translation": "космічний корабель"
+  },
+  {
+    "word": "space station",
+    "translation": "орбітальна станція"
+  },
+  {
+    "word": "spacesuit",
+    "translation": "скафандр"
+  },
+  {
+    "word": "spacewalk",
+    "translation": "вихід у відкритий космос"
+  },
+  {
+    "word": "telescope",
+    "translation": "телескоп"
+  },
+  {
+    "word": "voyage",
+    "translation": "вояж"
+  },
+  {
+    "word": "bachelor party",
+    "translation": "холостяцька вечірка"
+  },
+  {
+    "word": "bachelorette party",
+    "translation": "дівич-вечір"
+  },
+  {
+    "word": "best man",
+    "translation": "шафер"
+  },
+  {
+    "word": "bridesmaid",
+    "translation": "подружка нареченої"
+  },
+  {
+    "word": "fiance",
+    "translation": "жених"
+  },
+  {
+    "word": "fiancee",
+    "translation": "наречена"
+  },
+  {
+    "word": "flower girl",
+    "translation": "квіткарка"
+  },
+  {
+    "word": "maid of honor",
+    "translation": "фрейліна"
+  },
+  {
+    "word": "bouquet",
+    "translation": "букет"
+  },
+  {
+    "word": "reception",
+    "translation": "прийом"
+  },
+  {
+    "word": "speech",
+    "translation": "промова"
+  },
+  {
+    "word": "toast",
+    "translation": "тост"
+  },
+  {
+    "word": "engagement ring",
+    "translation": "обручка"
+  },
+  {
+    "word": "wedding ring",
+    "translation": "обручка"
+  },
+  {
+    "word": "wedding gown",
+    "translation": "весільна сукня"
+  },
+  {
+    "word": "veil",
+    "translation": "вуаль"
+  },
+  {
+    "word": "tuxedo",
+    "translation": "смокінг"
+  },
+  {
+    "word": "aisle",
+    "translation": "вівтар"
+  },
+  {
+    "word": "confetti",
+    "translation": "конфеті"
+  },
+  {
+    "word": "to elope",
+    "translation": "таємно втекти"
+  },
+  {
+    "word": "to exchange",
+    "translation": "обмінюватися"
+  },
+  {
+    "word": "vow",
+    "translation": "обітниця"
+  },
+  {
+    "word": "bell",
+    "translation": "дзвін"
+  },
+  {
+    "word": "dance floor",
+    "translation": "танцмайданчик"
+  },
+  {
+    "word": "honeymoon",
+    "translation": "медовий місяць"
+  },
+  {
+    "word": "newlywed",
+    "translation": "молодята"
+  },
+  {
+    "word": "pregnant",
+    "translation": "вагітний"
+  },
+  {
+    "word": "branch",
+    "translation": "вітка"
+  },
+  {
+    "word": "root",
+    "translation": "коріння"
+  },
+  {
+    "word": "trunk",
+    "translation": "ствол"
+  },
+  {
+    "word": "twig",
+    "translation": "гілочка"
+  },
+  {
+    "word": "bush",
+    "translation": "кущ"
+  },
+  {
+    "word": "ash",
+    "translation": "ясен"
+  },
+  {
+    "word": "bamboo",
+    "translation": "бамбук"
+  },
+  {
+    "word": "eucalyptus",
+    "translation": "евкаліпт"
+  },
+  {
+    "word": "evergreen",
+    "translation": "вічнозелений"
+  },
+  {
+    "word": "fir",
+    "translation": "ялиця"
+  },
+  {
+    "word": "ivy",
+    "translation": "плющ"
+  },
+  {
+    "word": "oak",
+    "translation": "дуб"
+  },
+  {
+    "word": "palm",
+    "translation": "пальма"
+  },
+  {
+    "word": "pine",
+    "translation": "сосна"
+  },
+  {
+    "word": "vine",
+    "translation": "виноградна лоза"
+  },
+  {
+    "word": "willow",
+    "translation": "верба"
+  },
+  {
+    "word": "weeping willow",
+    "translation": "плакуча верба"
+  },
+  {
+    "word": "to bloom",
+    "translation": "цвісти"
+  },
+  {
+    "word": "to blossom",
+    "translation": "розквітати"
+  },
+  {
+    "word": "bud",
+    "translation": "брунька"
+  },
+  {
+    "word": "leaf",
+    "translation": "лист"
+  },
+  {
+    "word": "stem",
+    "translation": "стебло"
+  },
+  {
+    "word": "thorn",
+    "translation": "колючка"
+  },
+  {
+    "word": "daffodil",
+    "translation": "нарцис"
+  },
+  {
+    "word": "daisy",
+    "translation": "маргаритка"
+  },
+  {
+    "word": "lotus",
+    "translation": "лотос"
+  },
+  {
+    "word": "tulip",
+    "translation": "тюльпан"
+  },
+  {
+    "word": "violet",
+    "translation": "фіалка"
+  },
+  {
+    "word": "lavender",
+    "translation": "лаванда"
+  },
+  {
+    "word": "weed",
+    "translation": "бур'ян"
+  },
+  {
+    "word": "aerobics",
+    "translation": "аеробіка"
+  },
+  {
+    "word": "athletic",
+    "translation": "атлетичний"
+  },
+  {
+    "word": "locker room",
+    "translation": "роздягальня"
+  },
+  {
+    "word": "barbell",
+    "translation": "штанга"
+  },
+  {
+    "word": "dumbbell",
+    "translation": "гантель"
+  },
+  {
+    "word": "cross trainer",
+    "translation": "крос-тренажер"
+  },
+  {
+    "word": "horizontal bar",
+    "translation": "турнік"
+  },
+  {
+    "word": "jump rope",
+    "translation": "скакалка"
+  },
+  {
+    "word": "mat",
+    "translation": "килимок"
+  },
+  {
+    "word": "multigym",
+    "translation": "мультигім"
+  },
+  {
+    "word": "pommel horse",
+    "translation": "гімнастичний кінь"
+  },
+  {
+    "word": "rowing machine",
+    "translation": "гребна машина"
+  },
+  {
+    "word": "punching bag",
+    "translation": "боксерська груша"
+  },
+  {
+    "word": "trampoline",
+    "translation": "батут"
+  },
+  {
+    "word": "treadmill",
+    "translation": "бігова доріжка"
+  },
+  {
+    "word": "to bounce",
+    "translation": "підстрибувати"
+  },
+  {
+    "word": "to hop",
+    "translation": "підстрибнути"
+  },
+  {
+    "word": "to stretch",
+    "translation": "розтягуватися"
+  },
+  {
+    "word": "to strengthen",
+    "translation": "зміцнити"
+  },
+  {
+    "word": "to squat",
+    "translation": "присідати"
+  },
+  {
+    "word": "to sweat",
+    "translation": "потіти"
+  },
+  {
+    "word": "chin-up",
+    "translation": "підтягування"
+  },
+  {
+    "word": "push-up",
+    "translation": "віджимання"
+  },
+  {
+    "word": "sit-up",
+    "translation": "підйом корпусу"
+  },
+  {
+    "word": "jumping jack",
+    "translation": "джампінг джек"
+  },
+  {
+    "word": "to massage",
+    "translation": "масажувати"
+  },
+  {
+    "word": "muscle memory",
+    "translation": "м'язова пам'ять"
+  },
+  {
+    "word": "six-pack",
+    "translation": "шість кубиків преса"
+  },
+  {
+    "word": "martial arts",
+    "translation": "бойове мистецтво"
+  },
+  {
+    "word": "to weight-lift",
+    "translation": "піднімати тяжкості"
+  },
+  {
+    "word": "to work out",
+    "translation": "тренуватися"
+  },
+  {
+    "word": "pace",
+    "translation": "темп"
+  },
+  {
+    "word": "to burn off",
+    "translation": "спалювати калорії"
+  },
+  {
+    "word": "dressing room",
+    "translation": "роздягальня"
+  },
+  {
+    "word": "pound for pound",
+    "translation": "фунт за фунт"
+  },
+  {
+    "word": "to acknowledge",
+    "translation": "визнавати"
+  },
+  {
+    "word": "to aid",
+    "translation": "допомагати"
+  },
+  {
+    "word": "age limit",
+    "translation": "граничний вік"
+  },
+  {
+    "word": "ban",
+    "translation": "заборона"
+  },
+  {
+    "word": "to bar",
+    "translation": "забороняти"
+  },
+  {
+    "word": "condition",
+    "translation": "умова"
+  },
+  {
+    "word": "to demand",
+    "translation": "вимагати"
+  },
+  {
+    "word": "to enable",
+    "translation": "дозволяти"
+  },
+  {
+    "word": "exception",
+    "translation": "виняток"
+  },
+  {
+    "word": "guideline",
+    "translation": "директива"
+  },
+  {
+    "word": "necessity",
+    "translation": "необхідність"
+  },
+  {
+    "word": "permit",
+    "translation": "дозвіл"
+  },
+  {
+    "word": "to permit",
+    "translation": "дозволяти"
+  },
+  {
+    "word": "regulation",
+    "translation": "регулювання"
+  },
+  {
+    "word": "obligation",
+    "translation": "зобов'язання"
+  },
+  {
+    "word": "requirement",
+    "translation": "вимога"
+  },
+  {
+    "word": "to restrict",
+    "translation": "обмежувати"
+  },
+  {
+    "word": "restriction",
+    "translation": "обмеження"
+  },
+  {
+    "word": "rule book",
+    "translation": "книга правил"
+  },
+  {
+    "word": "to forbid",
+    "translation": "заборонити"
+  },
+  {
+    "word": "forbidden",
+    "translation": "заборонений"
+  },
+  {
+    "word": "acceptable",
+    "translation": "прийнятний"
+  },
+  {
+    "word": "to grant",
+    "translation": "надавати"
+  },
+  {
+    "word": "compulsory",
+    "translation": "обов'язковий"
+  },
+  {
+    "word": "illegal",
+    "translation": "незаконний"
+  },
+  {
+    "word": "mandatory",
+    "translation": "обов'язковий"
+  },
+  {
+    "word": "to impose",
+    "translation": "нав'язувати"
+  },
+  {
+    "word": "to insist",
+    "translation": "наполягати"
+  },
+  {
+    "word": "strictness",
+    "translation": "строгість"
+  },
+  {
+    "word": "sanction",
+    "translation": "санкція"
+  },
+  {
+    "word": "provided (that|)",
+    "translation": "що"
+  },
+  {
+    "word": "to beg",
+    "translation": "благати"
+  },
+  {
+    "word": "to [get] rid of {sb/sth}",
+    "translation": "відкинути"
+  },
+  {
+    "word": "objection",
+    "translation": "заперечення"
+  },
+  {
+    "word": "to bewitch",
+    "translation": "зачарувати"
+  },
+  {
+    "word": "to charm",
+    "translation": "зачаровувати"
+  },
+  {
+    "word": "to curse",
+    "translation": "проклинати"
+  },
+  {
+    "word": "to enchant",
+    "translation": "зачаровувати"
+  },
+  {
+    "word": "to haunt",
+    "translation": "переслідувати"
+  },
+  {
+    "word": "demon",
+    "translation": "демон"
+  },
+  {
+    "word": "dragon",
+    "translation": "дракон"
+  },
+  {
+    "word": "dwarf",
+    "translation": "гном"
+  },
+  {
+    "word": "fairy",
+    "translation": "фея"
+  },
+  {
+    "word": "genie",
+    "translation": "джин"
+  },
+  {
+    "word": "ghost",
+    "translation": "привид"
+  },
+  {
+    "word": "giant",
+    "translation": "велетень"
+  },
+  {
+    "word": "ghoul",
+    "translation": "гуль"
+  },
+  {
+    "word": "goblin",
+    "translation": "гобліни"
+  },
+  {
+    "word": "golem",
+    "translation": "голем"
+  },
+  {
+    "word": "goddess",
+    "translation": "богиня"
+  },
+  {
+    "word": "leprechaun",
+    "translation": "Лепрехуни"
+  },
+  {
+    "word": "mermaid",
+    "translation": "русалка"
+  },
+  {
+    "word": "monster",
+    "translation": "чудовисько"
+  },
+  {
+    "word": "nymph",
+    "translation": "німфи"
+  },
+  {
+    "word": "ogre",
+    "translation": "огр"
+  },
+  {
+    "word": "phoenix",
+    "translation": "фенікс"
+  },
+  {
+    "word": "siren",
+    "translation": "сирена"
+  },
+  {
+    "word": "sorcerer",
+    "translation": "чаклун"
+  },
+  {
+    "word": "sorceress",
+    "translation": "чаклунка"
+  },
+  {
+    "word": "spirit",
+    "translation": "дух"
+  },
+  {
+    "word": "tooth fairy",
+    "translation": "зубна фея"
+  },
+  {
+    "word": "troll",
+    "translation": "троль"
+  },
+  {
+    "word": "unicorn",
+    "translation": "єдиноріг"
+  },
+  {
+    "word": "voodoo doll",
+    "translation": "лялька вуду"
+  },
+  {
+    "word": "werewolf",
+    "translation": "вовкулак"
+  },
+  {
+    "word": "zombie",
+    "translation": "зомбі"
+  },
+  {
+    "word": "demigod",
+    "translation": "напівбоги"
+  },
+  {
+    "word": "fabled",
+    "translation": "легендарний"
+  },
+  {
+    "word": "to assure",
+    "translation": "завірити"
+  },
+  {
+    "word": "to bet",
+    "translation": "поставити ставку"
+  },
+  {
+    "word": "to ensure",
+    "translation": "забезпечити"
+  },
+  {
+    "word": "to forecast",
+    "translation": "прогнозувати"
+  },
+  {
+    "word": "to guarantee",
+    "translation": "гарантувати"
+  },
+  {
+    "word": "to hesitate",
+    "translation": "вагатися"
+  },
+  {
+    "word": "ought to",
+    "translation": "повинен бути"
+  },
+  {
+    "word": "to recall",
+    "translation": "пригадувати"
+  },
+  {
+    "word": "should",
+    "translation": "тримати"
+  },
+  {
+    "word": "to suspect",
+    "translation": "підозрювати"
+  },
+  {
+    "word": "would",
+    "translation": "модальне дієслово використовується для вираження думки"
+  },
+  {
+    "word": "bound",
+    "translation": "обмежений"
+  },
+  {
+    "word": "sure",
+    "translation": "впевнений"
+  },
+  {
+    "word": "convinced",
+    "translation": "переконаний"
+  },
+  {
+    "word": "expected",
+    "translation": "очікуваний"
+  },
+  {
+    "word": "inevitable",
+    "translation": "неминучий"
+  },
+  {
+    "word": "rash",
+    "translation": "нерозважний"
+  },
+  {
+    "word": "positive",
+    "translation": "впевнений"
+  },
+  {
+    "word": "probable",
+    "translation": "ймовірний"
+  },
+  {
+    "word": "uncertain",
+    "translation": "невпевнений"
+  },
+  {
+    "word": "unclear",
+    "translation": "незрозумілий"
+  },
+  {
+    "word": "no doubt",
+    "translation": "напевно"
+  },
+  {
+    "word": "certainty",
+    "translation": "впевненість"
+  },
+  {
+    "word": "confidence",
+    "translation": "довіра"
+  },
+  {
+    "word": "confusion",
+    "translation": "плутанина"
+  },
+  {
+    "word": "probability",
+    "translation": "імовірність"
+  },
+  {
+    "word": "to deceive",
+    "translation": "обманювати"
+  },
+  {
+    "word": "somehow",
+    "translation": "якось"
+  },
+  {
+    "word": "scheme",
+    "translation": "схема"
+  },
+  {
+    "word": "not necessarily",
+    "translation": "не обов'язково"
+  },
+  {
+    "word": "you bet",
+    "translation": "ще б!"
+  },
+  {
+    "word": "to check out",
+    "translation": "перевірити"
+  },
+  {
+    "word": "odds",
+    "translation": "шанс"
+  },
+  {
+    "word": "in stone",
+    "translation": "висічений у камені"
+  },
+  {
+    "word": "to palm off",
+    "translation": "підсовувати"
+  },
+  {
+    "word": "plastic",
+    "translation": "фальшивий"
+  },
+  {
+    "word": "to question",
+    "translation": "опитувати"
+  },
+  {
+    "word": "analytical",
+    "translation": "аналітичний"
+  },
+  {
+    "word": "comparative",
+    "translation": "порівняльний"
+  },
+  {
+    "word": "descriptive",
+    "translation": "дескриптивний"
+  },
+  {
+    "word": "to cite",
+    "translation": "цитувати"
+  },
+  {
+    "word": "to classify",
+    "translation": "класифікувати"
+  },
+  {
+    "word": "to compile",
+    "translation": "компілювати"
+  },
+  {
+    "word": "to conduct",
+    "translation": "проводити"
+  },
+  {
+    "word": "to demonstrate",
+    "translation": "демонструвати"
+  },
+  {
+    "word": "to derive",
+    "translation": "виводити"
+  },
+  {
+    "word": "to detect",
+    "translation": "виявляти"
+  },
+  {
+    "word": "to document",
+    "translation": "документувати"
+  },
+  {
+    "word": "to estimate",
+    "translation": "оцінювати"
+  },
+  {
+    "word": "to evaluate",
+    "translation": "оцінити"
+  },
+  {
+    "word": "to imply",
+    "translation": "мати на увазі"
+  },
+  {
+    "word": "to interpret",
+    "translation": "інтерпретувати"
+  },
+  {
+    "word": "to observe",
+    "translation": "спостерігати"
+  },
+  {
+    "word": "to outline",
+    "translation": "окреслювати"
+  },
+  {
+    "word": "to survey",
+    "translation": "обстежувати"
+  },
+  {
+    "word": "case study",
+    "translation": "тематичне дослідження"
+  },
+  {
+    "word": "chart",
+    "translation": "діаграма"
+  },
+  {
+    "word": "diagram",
+    "translation": "діаграма"
+  },
+  {
+    "word": "document",
+    "translation": "документ"
+  },
+  {
+    "word": "evaluation",
+    "translation": "оцінка"
+  },
+  {
+    "word": "hypothesis",
+    "translation": "гіпотеза"
+  },
+  {
+    "word": "experiment",
+    "translation": "експеримент"
+  },
+  {
+    "word": "sample",
+    "translation": "вибірка"
+  },
+  {
+    "word": "variable",
+    "translation": "мінливий"
+  },
+  {
+    "word": "instrument",
+    "translation": "інструмент"
+  },
+  {
+    "word": "questionnaire",
+    "translation": "анкета"
+  },
+  {
+    "word": "reference",
+    "translation": "посилання"
+  },
+  {
+    "word": "trial",
+    "translation": "випробування"
+  },
+  {
+    "word": "trial and error",
+    "translation": "метод спроб і помилок"
+  },
+  {
+    "word": "finding",
+    "translation": "знахідка"
+  },
+  {
+    "word": "law",
+    "translation": "закон"
+  },
+  {
+    "word": "model",
+    "translation": "модель"
+  },
+  {
+    "word": "principle",
+    "translation": "принцип"
+  },
+  {
+    "word": "procedure",
+    "translation": "процедура"
+  },
+  {
+    "word": "proof",
+    "translation": "доказ"
+  },
+  {
+    "word": "to affirm",
+    "translation": "підтверджувати"
+  },
+  {
+    "word": "to air",
+    "translation": "бути в ефірі"
+  },
+  {
+    "word": "to break",
+    "translation": "оголосити новину"
+  },
+  {
+    "word": "to comment",
+    "translation": "коментувати"
+  },
+  {
+    "word": "to contribute",
+    "translation": "співпрацювати"
+  },
+  {
+    "word": "to deny",
+    "translation": "заперечувати"
+  },
+  {
+    "word": "to detail",
+    "translation": "докладно описувати"
+  },
+  {
+    "word": "to distribute",
+    "translation": "розподіляти"
+  },
+  {
+    "word": "to inform",
+    "translation": "інформувати"
+  },
+  {
+    "word": "to involve",
+    "translation": "включати"
+  },
+  {
+    "word": "journalism",
+    "translation": "журналістика"
+  },
+  {
+    "word": "news agency",
+    "translation": "інформаційна агенція"
+  },
+  {
+    "word": "cable television",
+    "translation": "кабельне телебачення"
+  },
+  {
+    "word": "coverage",
+    "translation": "репортаж"
+  },
+  {
+    "word": "fake news",
+    "translation": "фейкові новини"
+  },
+  {
+    "word": "announcer",
+    "translation": "диктор"
+  },
+  {
+    "word": "broadcaster",
+    "translation": "диктор"
+  },
+  {
+    "word": "news desk",
+    "translation": "відділ новин"
+  },
+  {
+    "word": "panel",
+    "translation": "комісія"
+  },
+  {
+    "word": "talk show",
+    "translation": "ток-шоу"
+  },
+  {
+    "word": "news conference",
+    "translation": "прес-конференція"
+  },
+  {
+    "word": "cartoon",
+    "translation": "карикатура"
+  },
+  {
+    "word": "column",
+    "translation": "колона"
+  },
+  {
+    "word": "columnist",
+    "translation": "колумніст"
+  },
+  {
+    "word": "source",
+    "translation": "джерело"
+  },
+  {
+    "word": "editorial",
+    "translation": "редакторська стаття"
+  },
+  {
+    "word": "feature",
+    "translation": "стаття"
+  },
+  {
+    "word": "report",
+    "translation": "звіт"
+  },
+  {
+    "word": "reporting",
+    "translation": "репортаж"
+  },
+  {
+    "word": "trend",
+    "translation": "тенденція"
+  },
+  {
+    "word": "relevant",
+    "translation": "актуальний"
+  },
+  {
+    "word": "confirmation",
+    "translation": "підтвердження"
+  },
+  {
+    "word": "in the dark",
+    "translation": "невігластво"
+  },
+  {
+    "word": "adventurous",
+    "translation": "відчайдушний"
+  },
+  {
+    "word": "to alarm",
+    "translation": "стривожити"
+  },
+  {
+    "word": "alarmed",
+    "translation": "стривожений"
+  },
+  {
+    "word": "daring",
+    "translation": "сміливий"
+  },
+  {
+    "word": "at-risk",
+    "translation": "загрозливий"
+  },
+  {
+    "word": "risk",
+    "translation": "ризик"
+  },
+  {
+    "word": "critical",
+    "translation": "критичний"
+  },
+  {
+    "word": "deadly",
+    "translation": "смертельний"
+  },
+  {
+    "word": "desperate",
+    "translation": "відчайдушний"
+  },
+  {
+    "word": "offensive",
+    "translation": "образливий"
+  },
+  {
+    "word": "harmless",
+    "translation": "безпечний"
+  },
+  {
+    "word": "high-risk",
+    "translation": "високий ризик"
+  },
+  {
+    "word": "low-risk",
+    "translation": "низький ризик"
+  },
+  {
+    "word": "secure",
+    "translation": "безпечний"
+  },
+  {
+    "word": "harmful",
+    "translation": "шкідливий"
+  },
+  {
+    "word": "insecure",
+    "translation": "невпевнений"
+  },
+  {
+    "word": "sound",
+    "translation": "надійний"
+  },
+  {
+    "word": "nasty",
+    "translation": "небезпечний"
+  },
+  {
+    "word": "risky",
+    "translation": "ризикований"
+  },
+  {
+    "word": "to encounter",
+    "translation": "зіткнутися"
+  },
+  {
+    "word": "to endanger",
+    "translation": "наражати на небезпеку"
+  },
+  {
+    "word": "to harm",
+    "translation": "заподіювати шкоди"
+  },
+  {
+    "word": "to pose",
+    "translation": "ставити"
+  },
+  {
+    "word": "to threaten",
+    "translation": "погрожувати"
+  },
+  {
+    "word": "happening",
+    "translation": "випадок"
+  },
+  {
+    "word": "to rescue",
+    "translation": "рятувати"
+  },
+  {
+    "word": "rescuer",
+    "translation": "рятувальник"
+  },
+  {
+    "word": "threat",
+    "translation": "загроза"
+  },
+  {
+    "word": "out of harm's way",
+    "translation": "з небезпечного стану"
+  },
+  {
+    "word": "to disturb",
+    "translation": "турбувати"
+  },
+  {
+    "word": "to offend",
+    "translation": "ображати"
+  },
+  {
+    "word": "off the hook",
+    "translation": "Звільнений від зобов'язання"
+  },
+  {
+    "word": "to scream",
+    "translation": "кричати"
+  },
+  {
+    "word": "neutral",
+    "translation": "нейтральний"
+  },
+  {
+    "word": "to alert",
+    "translation": "попереджати"
+  },
+  {
+    "word": "disrespectful",
+    "translation": "нешанобливий"
+  },
+  {
+    "word": "on a razor's edge",
+    "translation": "Лезо бритви"
+  },
+  {
+    "word": "fearsome",
+    "translation": "страхітливий"
+  },
+  {
+    "word": "address book",
+    "translation": "адресна книга"
+  },
+  {
+    "word": "answering machine",
+    "translation": "автовідповідач"
+  },
+  {
+    "word": "phone booth",
+    "translation": "телефонна будка"
+  },
+  {
+    "word": "handset",
+    "translation": "слухавка"
+  },
+  {
+    "word": "hotline",
+    "translation": "гаряча лінія"
+  },
+  {
+    "word": "landline",
+    "translation": "стаціонарний телефон"
+  },
+  {
+    "word": "to dial",
+    "translation": "набирати номер"
+  },
+  {
+    "word": "to call around",
+    "translation": "подзвонити"
+  },
+  {
+    "word": "to call back",
+    "translation": "передзвонити"
+  },
+  {
+    "word": "to call up",
+    "translation": "дзвонити"
+  },
+  {
+    "word": "caller",
+    "translation": "абонент"
+  },
+  {
+    "word": "operator",
+    "translation": "телефоніст"
+  },
+  {
+    "word": "caller ID",
+    "translation": "ідентифікатор абонента"
+  },
+  {
+    "word": "to cut off",
+    "translation": "перебити"
+  },
+  {
+    "word": "to [give] {sb} a call",
+    "translation": "зателефонувати комусь"
+  },
+  {
+    "word": "to hang on",
+    "translation": "зачекати"
+  },
+  {
+    "word": "to hang up",
+    "translation": "повісити трубку"
+  },
+  {
+    "word": "to hold",
+    "translation": "утримувати"
+  },
+  {
+    "word": "to put through",
+    "translation": "з'єднувати по телефону"
+  },
+  {
+    "word": "available",
+    "translation": "доступний"
+  },
+  {
+    "word": "busy",
+    "translation": "зайнятий"
+  },
+  {
+    "word": "Internet cafe",
+    "translation": "інтернет-кафе"
+  },
+  {
+    "word": "social media",
+    "translation": "Соціальні медіа"
+  },
+  {
+    "word": "home page",
+    "translation": "головна сторінка"
+  },
+  {
+    "word": "HTTP",
+    "translation": "HTTP"
+  },
+  {
+    "word": "follower",
+    "translation": "послідовник"
+  },
+  {
+    "word": "to friend",
+    "translation": "дружити"
+  },
+  {
+    "word": "friend request",
+    "translation": "запит на дружбу"
+  },
+  {
+    "word": "attachment",
+    "translation": "вкладення"
+  },
+  {
+    "word": "hate mail",
+    "translation": "ненавиджу пошту"
+  },
+  {
+    "word": "Skype",
+    "translation": "скайп"
+  },
+  {
+    "word": "web chat",
+    "translation": "веб-чат"
+  },
+  {
+    "word": "instant messaging",
+    "translation": "мгновене повідомлення"
+  },
+  {
+    "word": "net surfer",
+    "translation": "інтернет-серфер"
+  },
+  {
+    "word": "aid",
+    "translation": "допомога"
+  },
+  {
+    "word": "to beg",
+    "translation": "просити"
+  },
+  {
+    "word": "bias",
+    "translation": "предубеждение"
+  },
+  {
+    "word": "biased",
+    "translation": "упереджений"
+  },
+  {
+    "word": "consequence",
+    "translation": "послідовність"
+  },
+  {
+    "word": "to contribute",
+    "translation": "жертвувати"
+  },
+  {
+    "word": "hunger",
+    "translation": "голод"
+  },
+  {
+    "word": "relationship",
+    "translation": "звʼязок"
+  },
+  {
+    "word": "to dismiss",
+    "translation": "звільняти"
+  },
+  {
+    "word": "donation",
+    "translation": "пожертвування"
+  },
+  {
+    "word": "equal",
+    "translation": "рівний"
+  },
+  {
+    "word": "majority",
+    "translation": "більшість"
+  },
+  {
+    "word": "minority",
+    "translation": "меншість"
+  },
+  {
+    "word": "noncitizen",
+    "translation": "негромадянин"
+  },
+  {
+    "word": "protester",
+    "translation": "протестувальник"
+  },
+  {
+    "word": "racist",
+    "translation": "расист"
+  },
+  {
+    "word": "sexist",
+    "translation": "сексизм"
+  },
+  {
+    "word": "minimum wage",
+    "translation": "мінімальна заробітна плата"
+  },
+  {
+    "word": "quality of life",
+    "translation": "Якість життя"
+  },
+  {
+    "word": "social class",
+    "translation": "соціальний клас"
+  },
+  {
+    "word": "slum",
+    "translation": "трущоба"
+  },
+  {
+    "word": "shelter",
+    "translation": "притулок"
+  },
+  {
+    "word": "to blame",
+    "translation": "звинувачувати"
+  },
+  {
+    "word": "to march",
+    "translation": "промарширувати"
+  },
+  {
+    "word": "to starve",
+    "translation": "голодувати"
+  },
+  {
+    "word": "to strike",
+    "translation": "бастувати"
+  },
+  {
+    "word": "honor",
+    "translation": "честь"
+  },
+  {
+    "word": "to get together",
+    "translation": "зустрічатися"
+  },
+  {
+    "word": "disrespect",
+    "translation": "неповага"
+  },
+  {
+    "word": "beggar",
+    "translation": "жебрак"
+  },
+  {
+    "word": "homeless",
+    "translation": "бездомність"
+  },
+  {
+    "word": "child labor",
+    "translation": "дитяча праця"
+  },
+  {
+    "word": "alcohol abuse",
+    "translation": "зловживання алкоголем"
+  },
+  {
+    "word": "Alcoholics Anonymous",
+    "translation": "Анонімні Алкоголіки"
+  },
+  {
+    "word": "alcoholic",
+    "translation": "алкоголік"
+  },
+  {
+    "word": "prostitution",
+    "translation": "проституція"
+  },
+  {
+    "word": "deed",
+    "translation": "вчинок"
+  },
+  {
+    "word": "attempted",
+    "translation": "невдалий"
+  },
+  {
+    "word": "big",
+    "translation": "великий"
+  },
+  {
+    "word": "desperate",
+    "translation": "відчайдушний"
+  },
+  {
+    "word": "failed",
+    "translation": "невдалий"
+  },
+  {
+    "word": "fatal",
+    "translation": "фатальний"
+  },
+  {
+    "word": "problematic",
+    "translation": "складний"
+  },
+  {
+    "word": "unambitious",
+    "translation": "неамбітний"
+  },
+  {
+    "word": "badly",
+    "translation": "погано"
+  },
+  {
+    "word": "hopeless",
+    "translation": "безнадійний"
+  },
+  {
+    "word": "loser",
+    "translation": "невдаха"
+  },
+  {
+    "word": "to address",
+    "translation": "братися за"
+  },
+  {
+    "word": "to battle",
+    "translation": "боротися"
+  },
+  {
+    "word": "to bear",
+    "translation": "терпіти"
+  },
+  {
+    "word": "to comfort",
+    "translation": "втішати"
+  },
+  {
+    "word": "to confront",
+    "translation": "протистояти"
+  },
+  {
+    "word": "loss",
+    "translation": "втрата"
+  },
+  {
+    "word": "to fulfill",
+    "translation": "виконувати"
+  },
+  {
+    "word": "to gain",
+    "translation": "отримати"
+  },
+  {
+    "word": "to handle",
+    "translation": "справлятися"
+  },
+  {
+    "word": "to obtain",
+    "translation": "отримувати"
+  },
+  {
+    "word": "to overcome",
+    "translation": "долати"
+  },
+  {
+    "word": "to ruin",
+    "translation": "псувати"
+  },
+  {
+    "word": "optimism",
+    "translation": "оптимізм"
+  },
+  {
+    "word": "optimist",
+    "translation": "оптиміст"
+  },
+  {
+    "word": "pessimism",
+    "translation": "песимізм"
+  },
+  {
+    "word": "pessimist",
+    "translation": "песиміст"
+  },
+  {
+    "word": "to reach",
+    "translation": "досягнути"
+  },
+  {
+    "word": "to resolve",
+    "translation": "зіставити"
+  },
+  {
+    "word": "struggle",
+    "translation": "боротьба"
+  },
+  {
+    "word": "to struggle",
+    "translation": "старатися"
+  },
+  {
+    "word": "to let down",
+    "translation": "розчаровувати"
+  },
+  {
+    "word": "to [go|get] nowhere",
+    "translation": "нікуди не потрапити"
+  },
+  {
+    "word": "presentation",
+    "translation": "презентація"
+  },
+  {
+    "word": "chance",
+    "translation": "шанс"
+  },
+  {
+    "word": "fault",
+    "translation": "вина"
+  },
+  {
+    "word": "duty",
+    "translation": "обов'язок"
+  },
+  {
+    "word": "target",
+    "translation": "мішень"
+  },
+  {
+    "word": "determination",
+    "translation": "рішучість"
+  },
+  {
+    "word": "to disappoint",
+    "translation": "розчаровувати"
+  },
+  {
+    "word": "to give up on",
+    "translation": "втра́ти наді́ю на"
+  },
+  {
+    "word": "rewarding",
+    "translation": "задовільний"
+  },
+  {
+    "word": "weakness",
+    "translation": "слабкість"
+  },
+  {
+    "word": "electric razor",
+    "translation": "Електробритва"
+  },
+  {
+    "word": "shaver",
+    "translation": "бритва"
+  },
+  {
+    "word": "sunscreen",
+    "translation": "сонцезахисний крем"
+  },
+  {
+    "word": "shampoo",
+    "translation": "шампунь"
+  },
+  {
+    "word": "conditioner",
+    "translation": "бальзам для волосся"
+  },
+  {
+    "word": "balm",
+    "translation": "бальзам"
+  },
+  {
+    "word": "lotion",
+    "translation": "лосьйон"
+  },
+  {
+    "word": "cosmetics",
+    "translation": "косметика"
+  },
+  {
+    "word": "gel",
+    "translation": "гель"
+  },
+  {
+    "word": "hairspray",
+    "translation": "лак для волосся"
+  },
+  {
+    "word": "eyeliner",
+    "translation": "підводка для очей"
+  },
+  {
+    "word": "eyeshadow",
+    "translation": "тіні для повік"
+  },
+  {
+    "word": "blush",
+    "translation": "рум'янець"
+  },
+  {
+    "word": "concealer",
+    "translation": "консилер"
+  },
+  {
+    "word": "face powder",
+    "translation": "пудра для обличчя"
+  },
+  {
+    "word": "foundation",
+    "translation": "рідка пудра"
+  },
+  {
+    "word": "lip gloss",
+    "translation": "блиск для губ"
+  },
+  {
+    "word": "lipstick",
+    "translation": "губна помада"
+  },
+  {
+    "word": "mascara",
+    "translation": "туш для вій"
+  },
+  {
+    "word": "nail polish",
+    "translation": "Лак для нігтів"
+  },
+  {
+    "word": "face mask",
+    "translation": "маска для обличчя"
+  },
+  {
+    "word": "dye",
+    "translation": "фарба"
+  },
+  {
+    "word": "tweezers",
+    "translation": "пінцет"
+  },
+  {
+    "word": "cologne",
+    "translation": "одеколон"
+  },
+  {
+    "word": "deodorant",
+    "translation": "дезодорант"
+  },
+  {
+    "word": "mouthwash",
+    "translation": "зубний еліксир"
+  },
+  {
+    "word": "dental floss",
+    "translation": "зубна нитка"
+  },
+  {
+    "word": "nail file",
+    "translation": "пилка для нігтів"
+  },
+  {
+    "word": "cotton swab",
+    "translation": "ватна паличка"
+  },
+  {
+    "word": "makeup",
+    "translation": "макіяж"
+  },
+  {
+    "word": "nail clippers",
+    "translation": "кутикульні ножиці"
+  },
+  {
+    "word": "tampon",
+    "translation": "тампон"
+  },
+  {
+    "word": "to beat",
+    "translation": "бити"
+  },
+  {
+    "word": "to clap",
+    "translation": "плескати"
+  },
+  {
+    "word": "to drag",
+    "translation": "тягти"
+  },
+  {
+    "word": "to grab",
+    "translation": "схопити"
+  },
+  {
+    "word": "to punch",
+    "translation": "бити кулаком"
+  },
+  {
+    "word": "to shake",
+    "translation": "потискати руку"
+  },
+  {
+    "word": "to bend",
+    "translation": "схилятися"
+  },
+  {
+    "word": "to bow",
+    "translation": "кланятися"
+  },
+  {
+    "word": "to lean",
+    "translation": "спиратися"
+  },
+  {
+    "word": "to slouch",
+    "translation": "сутулитися"
+  },
+  {
+    "word": "to kneel",
+    "translation": "прихиляти коліно"
+  },
+  {
+    "word": "to leap",
+    "translation": "стрибати"
+  },
+  {
+    "word": "to tiptoe",
+    "translation": "ходити навшпиньки"
+  },
+  {
+    "word": "to crawl",
+    "translation": "повзати"
+  },
+  {
+    "word": "to lie down",
+    "translation": "лягати"
+  },
+  {
+    "word": "to blink",
+    "translation": "кліпати"
+  },
+  {
+    "word": "to gaze",
+    "translation": "дивитися"
+  },
+  {
+    "word": "to squint",
+    "translation": "щуритися"
+  },
+  {
+    "word": "to stare",
+    "translation": "дозиркати"
+  },
+  {
+    "word": "to wink",
+    "translation": "кліпати очима"
+  },
+  {
+    "word": "to chuckle",
+    "translation": "сміятися"
+  },
+  {
+    "word": "to giggle",
+    "translation": "хихікати"
+  },
+  {
+    "word": "to smirk",
+    "translation": "посміхатися"
+  },
+  {
+    "word": "to march",
+    "translation": "марширувати"
+  },
+  {
+    "word": "to nod",
+    "translation": "кивати"
+  },
+  {
+    "word": "to pace",
+    "translation": "ходити"
+  },
+  {
+    "word": "to trip",
+    "translation": "спотикатися"
+  },
+  {
+    "word": "to [give] {sb} bunny ears",
+    "translation": "зробити свої пальці V-подібними і закласти їх за голову людини як жарти"
+  },
+  {
+    "word": "to crouch",
+    "translation": "сідати навпочіпки"
+  },
+  {
+    "word": "to wake",
+    "translation": "будити"
+  },
+  {
+    "word": "hammer",
+    "translation": "молоток"
+  },
+  {
+    "word": "mallet",
+    "translation": "киянка"
+  },
+  {
+    "word": "saw",
+    "translation": "пила"
+  },
+  {
+    "word": "chainsaw",
+    "translation": "бензопила"
+  },
+  {
+    "word": "drill",
+    "translation": "дриль"
+  },
+  {
+    "word": "wrench",
+    "translation": "гайковий ключ"
+  },
+  {
+    "word": "screw",
+    "translation": "гвинт"
+  },
+  {
+    "word": "screwdriver",
+    "translation": "викрутка"
+  },
+  {
+    "word": "nail",
+    "translation": "цвях"
+  },
+  {
+    "word": "glue",
+    "translation": "клей"
+  },
+  {
+    "word": "file",
+    "translation": "напилок"
+  },
+  {
+    "word": "chisel",
+    "translation": "стамеска"
+  },
+  {
+    "word": "bolt",
+    "translation": "болт"
+  },
+  {
+    "word": "nut",
+    "translation": "гайка"
+  },
+  {
+    "word": "washer",
+    "translation": "шайба"
+  },
+  {
+    "word": "fork",
+    "translation": "вилы"
+  },
+  {
+    "word": "shovel",
+    "translation": "лопата"
+  },
+  {
+    "word": "wheelbarrow",
+    "translation": "тачка"
+  },
+  {
+    "word": "toolbox",
+    "translation": "ящик для інструментів"
+  },
+  {
+    "word": "pliers",
+    "translation": "плоскогубці"
+  },
+  {
+    "word": "wire cutter",
+    "translation": "кусачки"
+  },
+  {
+    "word": "duct tape",
+    "translation": "клейка стрічка"
+  },
+  {
+    "word": "plunger",
+    "translation": "вантуз"
+  },
+  {
+    "word": "crowbar",
+    "translation": "лом"
+  },
+  {
+    "word": "staple gun",
+    "translation": "степлер"
+  },
+  {
+    "word": "box cutter",
+    "translation": "короборіз"
+  },
+  {
+    "word": "to function",
+    "translation": "функціонувати"
+  },
+  {
+    "word": "adjustable wrench",
+    "translation": "розвідний ключ"
+  },
+  {
+    "word": "tape measure",
+    "translation": "вимірювальна рулетка"
+  },
+  {
+    "word": "sledgehammer",
+    "translation": "кувалда"
+  },
+  {
+    "word": "ax",
+    "translation": "сокира"
+  },
+  {
+    "word": "account",
+    "translation": "звіт"
+  },
+  {
+    "word": "to approve",
+    "translation": "схвалювати"
+  },
+  {
+    "word": "approval",
+    "translation": "затвердження"
+  },
+  {
+    "word": "to assess",
+    "translation": "оцінювати"
+  },
+  {
+    "word": "assessment",
+    "translation": "оцінка"
+  },
+  {
+    "word": "to associate",
+    "translation": "асоціюватися"
+  },
+  {
+    "word": "to assume",
+    "translation": "припускати"
+  },
+  {
+    "word": "case",
+    "translation": "докази"
+  },
+  {
+    "word": "common sense",
+    "translation": "здоровий глузд"
+  },
+  {
+    "word": "conflict",
+    "translation": "конфлікт"
+  },
+  {
+    "word": "estimate",
+    "translation": "кошторис"
+  },
+  {
+    "word": "controversy",
+    "translation": "спір"
+  },
+  {
+    "word": "controversial",
+    "translation": "спірний"
+  },
+  {
+    "word": "consistent",
+    "translation": "послідовний"
+  },
+  {
+    "word": "furthermore",
+    "translation": "окрім того"
+  },
+  {
+    "word": "forum",
+    "translation": "форум"
+  },
+  {
+    "word": "counterargument",
+    "translation": "контраргумент"
+  },
+  {
+    "word": "disagreement",
+    "translation": "незгода"
+  },
+  {
+    "word": "incident",
+    "translation": "інцидент"
+  },
+  {
+    "word": "to criticize",
+    "translation": "критикувати"
+  },
+  {
+    "word": "debate",
+    "translation": "дискусія"
+  },
+  {
+    "word": "to defend",
+    "translation": "захищати"
+  },
+  {
+    "word": "to differ",
+    "translation": "розходитися в думках"
+  },
+  {
+    "word": "to divide",
+    "translation": "розділити"
+  },
+  {
+    "word": "to emphasize",
+    "translation": "підкреслити"
+  },
+  {
+    "word": "to fall out",
+    "translation": "сваритися"
+  },
+  {
+    "word": "to fit",
+    "translation": "підходити"
+  },
+  {
+    "word": "to hold",
+    "translation": "дотримуватися думки"
+  },
+  {
+    "word": "to infer",
+    "translation": "укладати"
+  },
+  {
+    "word": "to appreciate",
+    "translation": "оцінювати"
+  },
+  {
+    "word": "to [take] {sb/sth} for granted",
+    "translation": "приймати як належне"
+  },
+  {
+    "word": "inference",
+    "translation": "висновок"
+  },
+  {
+    "word": "superficial",
+    "translation": "поверховий"
+  },
+  {
+    "word": "(as|so) far as {sb} [is] concerned",
+    "translation": "наскільки я розумію"
+  },
+  {
+    "word": "to [have] a problem with {sb/sth}",
+    "translation": "мати проблеми з"
+  },
+  {
+    "word": "in a nutshell",
+    "translation": "в двох словах"
+  },
+  {
+    "word": "if you ask me",
+    "translation": "якщо ти мене запитаєш"
+  },
+  {
+    "word": "to figure",
+    "translation": "рахувати"
+  },
+  {
+    "word": "to justify",
+    "translation": "виправдати"
+  },
+  {
+    "word": "in the first place",
+    "translation": "вперше"
+  },
+  {
+    "word": "to object",
+    "translation": "заперечувати"
+  },
+  {
+    "word": "objective",
+    "translation": "неупереджений"
+  },
+  {
+    "word": "subjective",
+    "translation": "суб'єктивний"
+  },
+  {
+    "word": "to maintain",
+    "translation": "підтримувати"
+  },
+  {
+    "word": "may",
+    "translation": "могти"
+  },
+  {
+    "word": "to name",
+    "translation": "називати"
+  },
+  {
+    "word": "to oppose",
+    "translation": "супротивлятися"
+  },
+  {
+    "word": "opposed",
+    "translation": "протипоставлений"
+  },
+  {
+    "word": "to praise",
+    "translation": "хвалити"
+  },
+  {
+    "word": "to reckon",
+    "translation": "вважати"
+  },
+  {
+    "word": "to regard",
+    "translation": "ставитися"
+  },
+  {
+    "word": "to remark",
+    "translation": "зауважувати"
+  },
+  {
+    "word": "to speculate",
+    "translation": "спекулювати"
+  },
+  {
+    "word": "speculation",
+    "translation": "спекуляція"
+  },
+  {
+    "word": "stance",
+    "translation": "позиція"
+  },
+  {
+    "word": "to stand",
+    "translation": "стояти"
+  },
+  {
+    "word": "to sum up",
+    "translation": "підсумовувати"
+  },
+  {
+    "word": "misunderstanding",
+    "translation": "недостатнє розуміння"
+  },
+  {
+    "word": "perception",
+    "translation": "сприйняття"
+  },
+  {
+    "word": "position",
+    "translation": "точка зору"
+  },
+  {
+    "word": "proof",
+    "translation": "доказ"
+  },
+  {
+    "word": "public opinion",
+    "translation": "громадська думка"
+  },
+  {
+    "word": "reason",
+    "translation": "розум"
+  },
+  {
+    "word": "remark",
+    "translation": "зауваження"
+  },
+  {
+    "word": "reputation",
+    "translation": "репутація"
+  },
+  {
+    "word": "right",
+    "translation": "будь ласка"
+  },
+  {
+    "word": "side",
+    "translation": "сторона"
+  },
+  {
+    "word": "while",
+    "translation": "тоді як"
+  },
+  {
+    "word": "to sign",
+    "translation": "підписувати"
+  },
+  {
+    "word": "in opposition to {sb/sth}",
+    "translation": "проти"
+  },
+  {
+    "word": "likewise",
+    "translation": "також"
+  },
+  {
+    "word": "judgment",
+    "translation": "судження"
+  },
+  {
+    "word": "altar",
+    "translation": "вівтар"
+  },
+  {
+    "word": "cross",
+    "translation": "хрест"
+  },
+  {
+    "word": "atheism",
+    "translation": "атеїзм"
+  },
+  {
+    "word": "Buddhism",
+    "translation": "буддизм"
+  },
+  {
+    "word": "Christian",
+    "translation": "християнин"
+  },
+  {
+    "word": "Christianity",
+    "translation": "християнство"
+  },
+  {
+    "word": "Hindu",
+    "translation": "індус"
+  },
+  {
+    "word": "Jew",
+    "translation": "єврей"
+  },
+  {
+    "word": "Jewish",
+    "translation": "єврейський"
+  },
+  {
+    "word": "Muslim",
+    "translation": "мусульманин"
+  },
+  {
+    "word": "pagan",
+    "translation": "язичник"
+  },
+  {
+    "word": "the Lord",
+    "translation": "Бог"
+  },
+  {
+    "word": "Bible",
+    "translation": "біблія"
+  },
+  {
+    "word": "Gospel",
+    "translation": "євангеліє"
+  },
+  {
+    "word": "heaven",
+    "translation": "рай"
+  },
+  {
+    "word": "hell",
+    "translation": "ад"
+  },
+  {
+    "word": "sin",
+    "translation": "гріх"
+  },
+  {
+    "word": "vice",
+    "translation": "порок"
+  },
+  {
+    "word": "grace",
+    "translation": "милість"
+  },
+  {
+    "word": "pride",
+    "translation": "гордість"
+  },
+  {
+    "word": "greed",
+    "translation": "жадібність"
+  },
+  {
+    "word": "lust",
+    "translation": "похіть"
+  },
+  {
+    "word": "envy",
+    "translation": "заздрість"
+  },
+  {
+    "word": "laziness",
+    "translation": "лінь"
+  },
+  {
+    "word": "to confess",
+    "translation": "зізнаватися"
+  },
+  {
+    "word": "to convert",
+    "translation": "звертатися"
+  },
+  {
+    "word": "to forgive",
+    "translation": "прощати"
+  },
+  {
+    "word": "to trust",
+    "translation": "довіряти"
+  },
+  {
+    "word": "devil",
+    "translation": "диявол"
+  },
+  {
+    "word": "prophet",
+    "translation": "пророк"
+  },
+  {
+    "word": "minister",
+    "translation": "священик"
+  },
+  {
+    "word": "service",
+    "translation": "богослужіння"
+  },
+  {
+    "word": "soul",
+    "translation": "душа"
+  },
+  {
+    "word": "spiritual",
+    "translation": "духовний"
+  },
+  {
+    "word": "grave",
+    "translation": "могила"
+  },
+  {
+    "word": "godchild",
+    "translation": "хрещеник"
+  },
+  {
+    "word": "devout",
+    "translation": "побожний"
+  },
+  {
+    "word": "godfather",
+    "translation": "хрещений батько"
+  },
+  {
+    "word": "godmother",
+    "translation": "хрещена мати"
+  },
+  {
+    "word": "karma",
+    "translation": "карма"
+  },
+  {
+    "word": "angle",
+    "translation": "кут"
+  },
+  {
+    "word": "curve",
+    "translation": "крива"
+  },
+  {
+    "word": "form",
+    "translation": "форма"
+  },
+  {
+    "word": "curved",
+    "translation": "кривий"
+  },
+  {
+    "word": "horizontal",
+    "translation": "горизонтальний"
+  },
+  {
+    "word": "vertical",
+    "translation": "вертикальний"
+  },
+  {
+    "word": "parallel",
+    "translation": "паралельні"
+  },
+  {
+    "word": "shaped",
+    "translation": "формований"
+  },
+  {
+    "word": "cube",
+    "translation": "куб"
+  },
+  {
+    "word": "pentagon",
+    "translation": "п’ятикутник"
+  },
+  {
+    "word": "oval",
+    "translation": "овал"
+  },
+  {
+    "word": "pyramid",
+    "translation": "піраміда"
+  },
+  {
+    "word": "rectangle",
+    "translation": "прямокутник"
+  },
+  {
+    "word": "sphere",
+    "translation": "сфера"
+  },
+  {
+    "word": "triangle",
+    "translation": "трикутник"
+  },
+  {
+    "word": "hollow",
+    "translation": "порожній"
+  },
+  {
+    "word": "pointed",
+    "translation": "гострий"
+  },
+  {
+    "word": "level",
+    "translation": "рівний"
+  },
+  {
+    "word": "steep",
+    "translation": "крутий"
+  },
+  {
+    "word": "paleness",
+    "translation": "блідість"
+  },
+  {
+    "word": "to dye",
+    "translation": "фарбувати"
+  },
+  {
+    "word": "light-colored",
+    "translation": "світлий"
+  },
+  {
+    "word": "deep",
+    "translation": "глибокий"
+  },
+  {
+    "word": "blood-red",
+    "translation": "кроваво-червоний"
+  },
+  {
+    "word": "chocolate",
+    "translation": "шоколадний"
+  },
+  {
+    "word": "coffee",
+    "translation": "кавовий"
+  },
+  {
+    "word": "lemon",
+    "translation": "лимонний"
+  },
+  {
+    "word": "navy blue",
+    "translation": "темно-синій"
+  },
+  {
+    "word": "maroon",
+    "translation": "марун"
+  },
+  {
+    "word": "violet",
+    "translation": "фіолетовий"
+  },
+  {
+    "word": "rose",
+    "translation": "рожевий"
+  },
+  {
+    "word": "budget",
+    "translation": "бюджетний"
+  },
+  {
+    "word": "resort",
+    "translation": "курорт"
+  },
+  {
+    "word": "lodging",
+    "translation": "житло"
+  },
+  {
+    "word": "lounge",
+    "translation": "лаунж"
+  },
+  {
+    "word": "checkout",
+    "translation": "виїзд"
+  },
+  {
+    "word": "resident",
+    "translation": "гостей"
+  },
+  {
+    "word": "room service",
+    "translation": "обслуговування номерів"
+  },
+  {
+    "word": "travel agency",
+    "translation": "туристична агенція"
+  },
+  {
+    "word": "E-ticket",
+    "translation": "Е-квиток"
+  },
+  {
+    "word": "vacationer",
+    "translation": "відпочивальник"
+  },
+  {
+    "word": "excursion",
+    "translation": "екскурсія"
+  },
+  {
+    "word": "package tour",
+    "translation": "турпакет"
+  },
+  {
+    "word": "to get away",
+    "translation": "втекти"
+  },
+  {
+    "word": "to trek",
+    "translation": "похід"
+  },
+  {
+    "word": "aisle",
+    "translation": "прохід"
+  },
+  {
+    "word": "cabin",
+    "translation": "кабіна"
+  },
+  {
+    "word": "cabin crew",
+    "translation": "екіпаж літака"
+  },
+  {
+    "word": "baggage claim",
+    "translation": "видача багажу"
+  },
+  {
+    "word": "jet lag",
+    "translation": "летюча втома"
+  },
+  {
+    "word": "terminal",
+    "translation": "термінал"
+  },
+  {
+    "word": "main line",
+    "translation": "головна лінія"
+  },
+  {
+    "word": "to cruise",
+    "translation": "круїзувати"
+  },
+  {
+    "word": "to delay",
+    "translation": "затримати"
+  },
+  {
+    "word": "to navigate",
+    "translation": "плавати"
+  },
+  {
+    "word": "caravan",
+    "translation": "автодім"
+  },
+  {
+    "word": "railroad crossing",
+    "translation": "залізничний переїзд"
+  },
+  {
+    "word": "compartment",
+    "translation": "відсік"
+  },
+  {
+    "word": "rest stop",
+    "translation": "місце відпочинку"
+  },
+  {
+    "word": "gift shop",
+    "translation": "подарунковий магазин"
+  },
+  {
+    "word": "hot-air balloon",
+    "translation": "повітряна куля"
+  },
+  {
+    "word": "April Fools' Day",
+    "translation": "День дурня"
+  },
+  {
+    "word": "Independence Day",
+    "translation": "День незалежності"
+  },
+  {
+    "word": "St. Patrick's Day",
+    "translation": "День святого Патрика"
+  },
+  {
+    "word": "Black Friday",
+    "translation": "Чорна п'ятниця"
+  },
+  {
+    "word": "Mardi Gras",
+    "translation": "Масляна"
+  },
+  {
+    "word": "transportation",
+    "translation": "транспорт"
+  },
+  {
+    "word": "act",
+    "translation": "акт"
+  },
+  {
+    "word": "to adapt",
+    "translation": "адаптувати"
+  },
+  {
+    "word": "ballet",
+    "translation": "балет"
+  },
+  {
+    "word": "blockbuster",
+    "translation": "блокбастер"
+  },
+  {
+    "word": "box office",
+    "translation": "бокс-офіс"
+  },
+  {
+    "word": "to appear",
+    "translation": "з'явитися"
+  },
+  {
+    "word": "to cast",
+    "translation": "репетирувати"
+  },
+  {
+    "word": "to project",
+    "translation": "показати"
+  },
+  {
+    "word": "to screen",
+    "translation": "екранувати"
+  },
+  {
+    "word": "rerun",
+    "translation": "повтор"
+  },
+  {
+    "word": "screening",
+    "translation": "показ"
+  },
+  {
+    "word": "to shoot",
+    "translation": "знімати"
+  },
+  {
+    "word": "to stage",
+    "translation": "постановляти"
+  },
+  {
+    "word": "cinephile",
+    "translation": "кінофіл"
+  },
+  {
+    "word": "animated",
+    "translation": "анімований"
+  },
+  {
+    "word": "clip",
+    "translation": "кліп"
+  },
+  {
+    "word": "cue",
+    "translation": "репліка"
+  },
+  {
+    "word": "double",
+    "translation": "дублер"
+  },
+  {
+    "word": "stunt",
+    "translation": "трюк"
+  },
+  {
+    "word": "lighting engineer",
+    "translation": "інженер зі світла"
+  },
+  {
+    "word": "manager",
+    "translation": "менеджер"
+  },
+  {
+    "word": "screenwriter",
+    "translation": "сценарист"
+  },
+  {
+    "word": "opening",
+    "translation": "прем'єра"
+  },
+  {
+    "word": "preview",
+    "translation": "попередній перегляд"
+  },
+  {
+    "word": "production",
+    "translation": "продукція"
+  },
+  {
+    "word": "rehearsal",
+    "translation": "репетиція"
+  },
+  {
+    "word": "to rehearse",
+    "translation": "репетирувати"
+  },
+  {
+    "word": "show business",
+    "translation": "шоу-бізнес"
+  },
+  {
+    "word": "scenario",
+    "translation": "сценарій"
+  },
+  {
+    "word": "subtitle",
+    "translation": "субтитри"
+  },
+  {
+    "word": "sound effect",
+    "translation": "звуковий ефект"
+  },
+  {
+    "word": "wind machine",
+    "translation": "вітрова машина"
+  },
+  {
+    "word": "to account for",
+    "translation": "пояснювати"
+  },
+  {
+    "word": "to alter",
+    "translation": "змінювати"
+  },
+  {
+    "word": "to arise",
+    "translation": "виникати"
+  },
+  {
+    "word": "to boost",
+    "translation": "підвищити"
+  },
+  {
+    "word": "to build up",
+    "translation": "посилюватися"
+  },
+  {
+    "word": "to climb",
+    "translation": "підвищитися"
+  },
+  {
+    "word": "to contribute",
+    "translation": "сприяти"
+  },
+  {
+    "word": "contribution",
+    "translation": "внесок"
+  },
+  {
+    "word": "to decline",
+    "translation": "зменшуватися"
+  },
+  {
+    "word": "to enhance",
+    "translation": "покращувати"
+  },
+  {
+    "word": "to extend",
+    "translation": "подовжувати"
+  },
+  {
+    "word": "to straighten",
+    "translation": "вирівнювати"
+  },
+  {
+    "word": "to gain",
+    "translation": "зростати"
+  },
+  {
+    "word": "to jump",
+    "translation": "стрибнути"
+  },
+  {
+    "word": "to lower",
+    "translation": "знизити"
+  },
+  {
+    "word": "to modify",
+    "translation": "модифікувати"
+  },
+  {
+    "word": "to mount",
+    "translation": "зростати"
+  },
+  {
+    "word": "to multiply",
+    "translation": "помножити"
+  },
+  {
+    "word": "to recover",
+    "translation": "відновити"
+  },
+  {
+    "word": "to trigger",
+    "translation": "спричиняти"
+  },
+  {
+    "word": "expansion",
+    "translation": "розширення"
+  },
+  {
+    "word": "implication",
+    "translation": "наслідок"
+  },
+  {
+    "word": "means",
+    "translation": "засіб"
+  },
+  {
+    "word": "outcome",
+    "translation": "результат"
+  },
+  {
+    "word": "product",
+    "translation": "продукт"
+  },
+  {
+    "word": "reduction",
+    "translation": "зменшення"
+  },
+  {
+    "word": "root",
+    "translation": "корінь"
+  },
+  {
+    "word": "responsible",
+    "translation": "відповідальний"
+  },
+  {
+    "word": "consequently",
+    "translation": "отже"
+  },
+  {
+    "word": "increasingly",
+    "translation": "зростаюче"
+  },
+  {
+    "word": "life-changing",
+    "translation": "життєзмінний"
+  },
+  {
+    "word": "significant",
+    "translation": "значний"
+  },
+  {
+    "word": "significantly",
+    "translation": "значно"
+  },
+  {
+    "word": "following",
+    "translation": "після"
+  },
+  {
+    "word": "hence",
+    "translation": "отже"
+  },
+  {
+    "word": "thus",
+    "translation": "отже"
+  },
+  {
+    "word": "to inspire",
+    "translation": "надихати"
+  },
+  {
+    "word": "ground zero",
+    "translation": "нульова точка"
+  },
+  {
+    "word": "to flash",
+    "translation": "спалахнути"
+  },
+  {
+    "word": "humidity",
+    "translation": "вологість"
+  },
+  {
+    "word": "airless",
+    "translation": "безповітряний"
+  },
+  {
+    "word": "seasonal",
+    "translation": "сезонний"
+  },
+  {
+    "word": "falling",
+    "translation": "падіння"
+  },
+  {
+    "word": "rising",
+    "translation": "зростаючий"
+  },
+  {
+    "word": "changeable",
+    "translation": "змінний"
+  },
+  {
+    "word": "cloudless",
+    "translation": "безхмарний"
+  },
+  {
+    "word": "heavy",
+    "translation": "важкий"
+  },
+  {
+    "word": "regional",
+    "translation": "регіональний"
+  },
+  {
+    "word": "stable",
+    "translation": "стабільний"
+  },
+  {
+    "word": "steady",
+    "translation": "стабільний"
+  },
+  {
+    "word": "tropical",
+    "translation": "тропічний"
+  },
+  {
+    "word": "windless",
+    "translation": "безвітряний"
+  },
+  {
+    "word": "chill",
+    "translation": "прохолода"
+  },
+  {
+    "word": "warmth",
+    "translation": "теплота"
+  },
+  {
+    "word": "frostbite",
+    "translation": "обмороження"
+  },
+  {
+    "word": "frosty",
+    "translation": "морозний"
+  },
+  {
+    "word": "heatstroke",
+    "translation": "сонячний удар"
+  },
+  {
+    "word": "dry season",
+    "translation": "сухий сезон"
+  },
+  {
+    "word": "dust storm",
+    "translation": "пилова буря"
+  },
+  {
+    "word": "flooding",
+    "translation": "затоплення"
+  },
+  {
+    "word": "frost",
+    "translation": "мороз"
+  },
+  {
+    "word": "mist",
+    "translation": "туман"
+  },
+  {
+    "word": "rainbow",
+    "translation": "веселка"
+  },
+  {
+    "word": "tsunami",
+    "translation": "цунамі"
+  },
+  {
+    "word": "typhoon",
+    "translation": "тайфун"
+  },
+  {
+    "word": "shadow",
+    "translation": "тінь"
+  },
+  {
+    "word": "overcast",
+    "translation": "ху́дий (про не́бо)"
+  },
+  {
+    "word": "thunderbolt",
+    "translation": "громови́ця"
+  },
+  {
+    "word": "cornfield",
+    "translation": "кукурудзяне поле"
+  },
+  {
+    "word": "plantation",
+    "translation": "плантація"
+  },
+  {
+    "word": "cowboy",
+    "translation": "ковбой"
+  },
+  {
+    "word": "crop",
+    "translation": "урожай"
+  },
+  {
+    "word": "groundwater",
+    "translation": "підземні води"
+  },
+  {
+    "word": "erosion",
+    "translation": "ерозія"
+  },
+  {
+    "word": "pesticide",
+    "translation": "пестицид"
+  },
+  {
+    "word": "agricultural",
+    "translation": "сільськогосподарський"
+  },
+  {
+    "word": "edible",
+    "translation": "їстівний"
+  },
+  {
+    "word": "fertile",
+    "translation": "родючий"
+  },
+  {
+    "word": "produce",
+    "translation": "продукти"
+  },
+  {
+    "word": "barley",
+    "translation": "ячмінь"
+  },
+  {
+    "word": "legume",
+    "translation": "бобові"
+  },
+  {
+    "word": "hay",
+    "translation": "сено"
+  },
+  {
+    "word": "soy",
+    "translation": "соя"
+  },
+  {
+    "word": "sugar cane",
+    "translation": "цукрова тростина"
+  },
+  {
+    "word": "to dig",
+    "translation": "копати"
+  },
+  {
+    "word": "to harness",
+    "translation": "прикувати"
+  },
+  {
+    "word": "to harvest",
+    "translation": "збирати"
+  },
+  {
+    "word": "to keep",
+    "translation": "утримувати"
+  },
+  {
+    "word": "to load",
+    "translation": "завантажити"
+  },
+  {
+    "word": "to package",
+    "translation": "упаковувати"
+  },
+  {
+    "word": "to pile",
+    "translation": "складати"
+  },
+  {
+    "word": "to uproot",
+    "translation": "викорінювати"
+  },
+  {
+    "word": "livestock",
+    "translation": "сільськогосподарські тварини"
+  },
+  {
+    "word": "boar",
+    "translation": "в'ялене свиня"
+  },
+  {
+    "word": "calf",
+    "translation": "теленя"
+  },
+  {
+    "word": "hog",
+    "translation": "свиня"
+  },
+  {
+    "word": "mule",
+    "translation": "віл"
+  },
+  {
+    "word": "pony",
+    "translation": "поні"
+  },
+  {
+    "word": "honeycomb",
+    "translation": "соту"
+  },
+  {
+    "word": "poultry",
+    "translation": "птиця"
+  },
+  {
+    "word": "ostrich",
+    "translation": "страус"
+  },
+  {
+    "word": "to appeal",
+    "translation": "приваблювати"
+  },
+  {
+    "word": "to consult",
+    "translation": "консультуватися"
+  },
+  {
+    "word": "to contest",
+    "translation": "оспорювати"
+  },
+  {
+    "word": "to disgust",
+    "translation": "відразити"
+  },
+  {
+    "word": "to favor",
+    "translation": "прихилятися до"
+  },
+  {
+    "word": "favorite",
+    "translation": "улюбленець"
+  },
+  {
+    "word": "to go for",
+    "translation": "обирати"
+  },
+  {
+    "word": "to shy away from",
+    "translation": "уникати"
+  },
+  {
+    "word": "to pick out",
+    "translation": "вибрати"
+  },
+  {
+    "word": "to put up with",
+    "translation": "терпіти"
+  },
+  {
+    "word": "to think over",
+    "translation": "подумати над"
+  },
+  {
+    "word": "to turn to",
+    "translation": "звернутися до"
+  },
+  {
+    "word": "decision maker",
+    "translation": "особа"
+  },
+  {
+    "word": "dislike",
+    "translation": "незадоволення"
+  },
+  {
+    "word": "preference",
+    "translation": "уподобання"
+  },
+  {
+    "word": "resolution",
+    "translation": "рішення"
+  },
+  {
+    "word": "taste",
+    "translation": "смак"
+  },
+  {
+    "word": "criteria",
+    "translation": "критерії"
+  },
+  {
+    "word": "liking",
+    "translation": "прихильність"
+  },
+  {
+    "word": "tendency",
+    "translation": "тенденція"
+  },
+  {
+    "word": "alternatively",
+    "translation": "альтернативно"
+  },
+  {
+    "word": "to please",
+    "translation": "досадити"
+  },
+  {
+    "word": "instead",
+    "translation": "на заміну"
+  },
+  {
+    "word": "to disrespect",
+    "translation": "неповага"
+  },
+  {
+    "word": "to die",
+    "translation": "тужити"
+  },
+  {
+    "word": "to ask for",
+    "translation": "просити"
+  },
+  {
+    "word": "to back down",
+    "translation": "відступити"
+  },
+  {
+    "word": "to believe in",
+    "translation": "вірити в"
+  },
+  {
+    "word": "to bring on",
+    "translation": "викликати"
+  },
+  {
+    "word": "to bring up",
+    "translation": "підняти (тему)"
+  },
+  {
+    "word": "to call off",
+    "translation": "скасувати"
+  },
+  {
+    "word": "to catch up",
+    "translation": "наздогнати"
+  },
+  {
+    "word": "to cheer up",
+    "translation": "підбадьоритися"
+  },
+  {
+    "word": "to clean up",
+    "translation": "прибратися"
+  },
+  {
+    "word": "to come across",
+    "translation": "натрапити на"
+  },
+  {
+    "word": "to come up",
+    "translation": "підніматися"
+  },
+  {
+    "word": "to drop by",
+    "translation": "завітати"
+  },
+  {
+    "word": "to eat out",
+    "translation": "поїсти в ресторані"
+  },
+  {
+    "word": "to end up",
+    "translation": "опинитися"
+  },
+  {
+    "word": "to fall apart",
+    "translation": "руйнуватися"
+  },
+  {
+    "word": "to figure out",
+    "translation": "з'ясувати"
+  },
+  {
+    "word": "to fill in",
+    "translation": "заміщати"
+  },
+  {
+    "word": "to get along",
+    "translation": "ладнати"
+  },
+  {
+    "word": "to give away",
+    "translation": "віддати"
+  },
+  {
+    "word": "to go over",
+    "translation": "переглянути"
+  },
+  {
+    "word": "to hang on",
+    "translation": "почекай"
+  },
+  {
+    "word": "to hang out",
+    "translation": "тусуватися"
+  },
+  {
+    "word": "to leave out",
+    "translation": "виключати"
+  },
+  {
+    "word": "to make out",
+    "translation": "з'ясувати"
+  },
+  {
+    "word": "to pass away",
+    "translation": "померти"
+  },
+  {
+    "word": "to put off",
+    "translation": "відкласти"
+  },
+  {
+    "word": "to rule out",
+    "translation": "відкинути"
+  },
+  {
+    "word": "to see to",
+    "translation": "пізнатися з"
+  },
+  {
+    "word": "to show up",
+    "translation": "з'явитися"
+  },
+  {
+    "word": "to sort out",
+    "translation": "сортувати"
+  },
+  {
+    "word": "to throw away",
+    "translation": "викинути"
+  },
+  {
+    "word": "to turn down",
+    "translation": "відхиляти"
+  },
+  {
+    "word": "to put in",
+    "translation": "вставляти репліки"
+  },
+  {
+    "word": "to wipe out",
+    "translation": "стерти"
+  },
+  {
+    "word": "to pile up",
+    "translation": "накладати"
+  },
+  {
+    "word": "to put out",
+    "translation": "гасити"
+  },
+  {
+    "word": "to break away",
+    "translation": "втекти"
+  },
+  {
+    "word": "to root for",
+    "translation": "підтримувати"
+  },
+  {
+    "word": "to come away",
+    "translation": "відійти"
+  },
+  {
+    "word": "to fly into",
+    "translation": "впасти в"
+  },
+  {
+    "word": "to stash away",
+    "translation": "сховати"
+  },
+  {
+    "word": "to capitalize on",
+    "translation": "використати"
+  },
+  {
+    "word": "to pick up",
+    "translation": "підняти"
+  },
+  {
+    "word": "aggressive",
+    "translation": "агресивний"
+  },
+  {
+    "word": "astonished",
+    "translation": "приголомшений"
+  },
+  {
+    "word": "awkward",
+    "translation": "незручний"
+  },
+  {
+    "word": "bitter",
+    "translation": "гіркий"
+  },
+  {
+    "word": "breathtaking",
+    "translation": "захоплюючий"
+  },
+  {
+    "word": "cheerless",
+    "translation": "безрадісний"
+  },
+  {
+    "word": "delighted",
+    "translation": "втішений"
+  },
+  {
+    "word": "depressing",
+    "translation": "пригнічуючий"
+  },
+  {
+    "word": "disgusting",
+    "translation": "огидний"
+  },
+  {
+    "word": "down",
+    "translation": "упавший"
+  },
+  {
+    "word": "dreadful",
+    "translation": "жахливий"
+  },
+  {
+    "word": "dull",
+    "translation": "нудний"
+  },
+  {
+    "word": "emotional",
+    "translation": "емоційний"
+  },
+  {
+    "word": "empty",
+    "translation": "порожня"
+  },
+  {
+    "word": "fascinated",
+    "translation": "захоплений"
+  },
+  {
+    "word": "exhausting",
+    "translation": "виснажливий"
+  },
+  {
+    "word": "fearful",
+    "translation": "переляканий"
+  },
+  {
+    "word": "fed up",
+    "translation": "втомлений"
+  },
+  {
+    "word": "homesick",
+    "translation": "сумний за домом"
+  },
+  {
+    "word": "irritated",
+    "translation": "роздратований"
+  },
+  {
+    "word": "terrifying",
+    "translation": "жахливий"
+  },
+  {
+    "word": "uncomfortable",
+    "translation": "незручно"
+  },
+  {
+    "word": "to amaze",
+    "translation": "вражати"
+  },
+  {
+    "word": "to regret",
+    "translation": "шкодувати"
+  },
+  {
+    "word": "embarrassment",
+    "translation": "незручність"
+  },
+  {
+    "word": "enthusiasm",
+    "translation": "ентузіазм"
+  },
+  {
+    "word": "panic",
+    "translation": "паніка"
+  },
+  {
+    "word": "pity",
+    "translation": "жаль"
+  },
+  {
+    "word": "relief",
+    "translation": "полегшення"
+  },
+  {
+    "word": "shock",
+    "translation": "шок"
+  },
+  {
+    "word": "stress",
+    "translation": "стрес"
+  },
+  {
+    "word": "terror",
+    "translation": "страх"
+  },
+  {
+    "word": "thrill",
+    "translation": "захоплення"
+  },
+  {
+    "word": "conflict",
+    "translation": "конфлікт"
+  },
+  {
+    "word": "wonder",
+    "translation": "диво"
+  },
+  {
+    "word": "worry",
+    "translation": "тривога"
+  },
+  {
+    "word": "sheepish",
+    "translation": "сором'язливий"
+  },
+  {
+    "word": "depression",
+    "translation": "депресія"
+  },
+  {
+    "word": "rage",
+    "translation": "досада"
+  },
+  {
+    "word": "entertainment",
+    "translation": "розвага"
+  },
+  {
+    "word": "recreation",
+    "translation": "рекреація"
+  },
+  {
+    "word": "charades",
+    "translation": "шаради"
+  },
+  {
+    "word": "jigsaw puzzle",
+    "translation": "пазл"
+  },
+  {
+    "word": "playmate",
+    "translation": "іграшковий приятель"
+  },
+  {
+    "word": "playing card",
+    "translation": "ігрова карта"
+  },
+  {
+    "word": "club",
+    "translation": "трефи"
+  },
+  {
+    "word": "diamond",
+    "translation": "бубни"
+  },
+  {
+    "word": "heart",
+    "translation": "серця"
+  },
+  {
+    "word": "spade",
+    "translation": "пики"
+  },
+  {
+    "word": "ace",
+    "translation": "туз"
+  },
+  {
+    "word": "hand",
+    "translation": "карта"
+  },
+  {
+    "word": "tic-tac-toe",
+    "translation": "хрестики-нолики"
+  },
+  {
+    "word": "handball",
+    "translation": "гандбол"
+  },
+  {
+    "word": "Barbie doll",
+    "translation": "лялька Барбі"
+  },
+  {
+    "word": "domino",
+    "translation": "доміно"
+  },
+  {
+    "word": "rag doll",
+    "translation": "лялька-рушник"
+  },
+  {
+    "word": "piece",
+    "translation": "фігура"
+  },
+  {
+    "word": "Lego",
+    "translation": "Лего"
+  },
+  {
+    "word": "Monopoly",
+    "translation": "монополія"
+  },
+  {
+    "word": "Scrabble",
+    "translation": "скрэбл"
+  },
+  {
+    "word": "scoreboard",
+    "translation": "табло"
+  },
+  {
+    "word": "avatar",
+    "translation": "аватар"
+  },
+  {
+    "word": "joystick",
+    "translation": "джойстик"
+  },
+  {
+    "word": "action",
+    "translation": "дія"
+  },
+  {
+    "word": "advance",
+    "translation": "наступ"
+  },
+  {
+    "word": "camp",
+    "translation": "табір"
+  },
+  {
+    "word": "military",
+    "translation": "воєнний"
+  },
+  {
+    "word": "air force",
+    "translation": "аерокосмічні сили"
+  },
+  {
+    "word": "navy",
+    "translation": "флот"
+  },
+  {
+    "word": "strategy",
+    "translation": "стратегія"
+  },
+  {
+    "word": "arms",
+    "translation": "зброя"
+  },
+  {
+    "word": "grenade",
+    "translation": "граната"
+  },
+  {
+    "word": "handgun",
+    "translation": "пістолет"
+  },
+  {
+    "word": "mine",
+    "translation": "міну"
+  },
+  {
+    "word": "campaign",
+    "translation": "кампанія"
+  },
+  {
+    "word": "to command",
+    "translation": "командувати"
+  },
+  {
+    "word": "to desert",
+    "translation": "дезертувати"
+  },
+  {
+    "word": "to dominate",
+    "translation": "домінувати"
+  },
+  {
+    "word": "to invade",
+    "translation": "вторгатися"
+  },
+  {
+    "word": "to recruit",
+    "translation": "рекрутувати"
+  },
+  {
+    "word": "to strike",
+    "translation": "вдарити"
+  },
+  {
+    "word": "gunfight",
+    "translation": "вогнепальна сутичка"
+  },
+  {
+    "word": "armed",
+    "translation": "озброєний"
+  },
+  {
+    "word": "civil",
+    "translation": "цивільний"
+  },
+  {
+    "word": "occupied",
+    "translation": "окупований"
+  },
+  {
+    "word": "parade",
+    "translation": "парад"
+  },
+  {
+    "word": "rank",
+    "translation": "ранги"
+  },
+  {
+    "word": "refugee",
+    "translation": "біженець"
+  },
+  {
+    "word": "volunteer",
+    "translation": "доброволець"
+  },
+  {
+    "word": "service",
+    "translation": "служба"
+  },
+  {
+    "word": "tank",
+    "translation": "танк"
+  },
+  {
+    "word": "warship",
+    "translation": "військовий корабель"
+  },
+  {
+    "word": "war crime",
+    "translation": "військовий злочин"
+  },
+  {
+    "word": "nuclear submarine",
+    "translation": "ядерний підводний човен"
+  },
+  {
+    "word": "target",
+    "translation": "мета"
+  },
+  {
+    "word": "to wreck",
+    "translation": "руйнувати"
+  },
+  {
+    "word": "spoil",
+    "translation": "трофеї"
+  },
+  {
+    "word": "to wound",
+    "translation": "поранити"
+  },
+  {
+    "word": "ground-to-air missile",
+    "translation": "зенітна ракета"
+  },
+  {
+    "word": "air-to-ground missile",
+    "translation": "повітряно-земельна ракета"
+  },
+  {
+    "word": "brass knuckles",
+    "translation": "металеві кастети"
+  },
+  {
+    "word": "dogfight",
+    "translation": "повітряний бій"
+  },
+  {
+    "word": "marine",
+    "translation": "морський піхотинець"
+  },
+  {
+    "word": "to gun down",
+    "translation": "застрелити"
+  },
+  {
+    "word": "sidearm",
+    "translation": "бокова зброя"
+  },
+  {
+    "word": "bulletproof",
+    "translation": "куленепробивний"
+  },
+  {
+    "word": "abandoned",
+    "translation": "покинутий"
+  },
+  {
+    "word": "classical",
+    "translation": "класичний"
+  },
+  {
+    "word": "external",
+    "translation": "зовнішній"
+  },
+  {
+    "word": "industrial",
+    "translation": "промисловий"
+  },
+  {
+    "word": "open-plan",
+    "translation": "відкритий простір"
+  },
+  {
+    "word": "spacious",
+    "translation": "вмісткий"
+  },
+  {
+    "word": "to construct",
+    "translation": "будувати"
+  },
+  {
+    "word": "brick",
+    "translation": "цеглина"
+  },
+  {
+    "word": "column",
+    "translation": "колона"
+  },
+  {
+    "word": "concrete",
+    "translation": "бетон"
+  },
+  {
+    "word": "development",
+    "translation": "розвиток"
+  },
+  {
+    "word": "digger",
+    "translation": "екскаватор"
+  },
+  {
+    "word": "passage",
+    "translation": "прохід"
+  },
+  {
+    "word": "exit",
+    "translation": "вихід"
+  },
+  {
+    "word": "hut",
+    "translation": "хатинка"
+  },
+  {
+    "word": "to level",
+    "translation": "знищити"
+  },
+  {
+    "word": "to rebuild",
+    "translation": "відбудувати"
+  },
+  {
+    "word": "ruin",
+    "translation": "руїни"
+  },
+  {
+    "word": "curb",
+    "translation": "бордюр"
+  },
+  {
+    "word": "landfill",
+    "translation": "сміттєзвалище"
+  },
+  {
+    "word": "sewer",
+    "translation": "каналізація"
+  },
+  {
+    "word": "landmark",
+    "translation": "історична пам'ятка"
+  },
+  {
+    "word": "monument",
+    "translation": "монумент"
+  },
+  {
+    "word": "facility",
+    "translation": "об'єкт"
+  },
+  {
+    "word": "casino",
+    "translation": "казино"
+  },
+  {
+    "word": "courthouse",
+    "translation": "суд"
+  },
+  {
+    "word": "disco",
+    "translation": "дискотека"
+  },
+  {
+    "word": "nursing home",
+    "translation": "будинок для літніх людей"
+  },
+  {
+    "word": "schoolhouse",
+    "translation": "школа"
+  },
+  {
+    "word": "structure",
+    "translation": "структура"
+  },
+  {
+    "word": "town hall",
+    "translation": "міська рада"
+  },
+  {
+    "word": "funeral home",
+    "translation": "похоронний дім"
+  },
+  {
+    "word": "graveyard",
+    "translation": "як цвинтар"
+  },
+  {
+    "word": "tomb",
+    "translation": "гробниця"
+  },
+  {
+    "word": "biochemistry",
+    "translation": "біохімія"
+  },
+  {
+    "word": "biological",
+    "translation": "біологічний"
+  },
+  {
+    "word": "artificial",
+    "translation": "штучний"
+  },
+  {
+    "word": "bacteria",
+    "translation": "бактерії"
+  },
+  {
+    "word": "being",
+    "translation": "істота"
+  },
+  {
+    "word": "cycle",
+    "translation": "цикл"
+  },
+  {
+    "word": "DNA",
+    "translation": "ДНК"
+  },
+  {
+    "word": "genetics",
+    "translation": "генетика"
+  },
+  {
+    "word": "to evolve",
+    "translation": "еволюціонувати"
+  },
+  {
+    "word": "compound",
+    "translation": "сполука"
+  },
+  {
+    "word": "element",
+    "translation": "елемент"
+  },
+  {
+    "word": "matter",
+    "translation": "речовина"
+  },
+  {
+    "word": "mineral",
+    "translation": "мінерал"
+  },
+  {
+    "word": "molecule",
+    "translation": "молекула"
+  },
+  {
+    "word": "solution",
+    "translation": "розчин"
+  },
+  {
+    "word": "boiling point",
+    "translation": "точка кипіння"
+  },
+  {
+    "word": "freezing point",
+    "translation": "точка замерзання"
+  },
+  {
+    "word": "radiation",
+    "translation": "радіація"
+  },
+  {
+    "word": "to advance",
+    "translation": "підвищити"
+  },
+  {
+    "word": "to absorb",
+    "translation": "поглинати"
+  },
+  {
+    "word": "to activate",
+    "translation": "активувати"
+  },
+  {
+    "word": "to generate",
+    "translation": "генерувати"
+  },
+  {
+    "word": "industry",
+    "translation": "промисловість"
+  },
+  {
+    "word": "civil engineering",
+    "translation": "цивільне будівництво"
+  },
+  {
+    "word": "sensor",
+    "translation": "датчик"
+  },
+  {
+    "word": "circuit",
+    "translation": "електричне коло"
+  },
+  {
+    "word": "field",
+    "translation": "поле"
+  },
+  {
+    "word": "wire",
+    "translation": "дріт"
+  },
+  {
+    "word": "live wire",
+    "translation": "живий провід"
+  },
+  {
+    "word": "motion",
+    "translation": "рух"
+  },
+  {
+    "word": "to monitor",
+    "translation": "моніторити"
+  },
+  {
+    "word": "motor",
+    "translation": "мотор"
+  },
+  {
+    "word": "rate",
+    "translation": "рівень"
+  },
+  {
+    "word": "weathering",
+    "translation": "вивітрювання"
+  },
+  {
+    "word": "impervious",
+    "translation": "непроникний"
+  },
+  {
+    "word": "arc",
+    "translation": "дуга"
+  },
+  {
+    "word": "area",
+    "translation": "площа"
+  },
+  {
+    "word": "point",
+    "translation": "точка"
+  },
+  {
+    "word": "set",
+    "translation": "множина"
+  },
+  {
+    "word": "space",
+    "translation": "пробіл"
+  },
+  {
+    "word": "volume",
+    "translation": "об'єм"
+  },
+  {
+    "word": "addition",
+    "translation": "додавання"
+  },
+  {
+    "word": "deduction",
+    "translation": "вирахування"
+  },
+  {
+    "word": "division",
+    "translation": "ділення"
+  },
+  {
+    "word": "multiplication",
+    "translation": "множення"
+  },
+  {
+    "word": "times",
+    "translation": "раз"
+  },
+  {
+    "word": "fraction",
+    "translation": "дроб"
+  },
+  {
+    "word": "percentage",
+    "translation": "відсоток"
+  },
+  {
+    "word": "probability",
+    "translation": "імовірність"
+  },
+  {
+    "word": "equal sign",
+    "translation": "знак рівності"
+  },
+  {
+    "word": "to amount to",
+    "translation": "дорівнювати"
+  },
+  {
+    "word": "digit",
+    "translation": "цифра"
+  },
+  {
+    "word": "minus",
+    "translation": "мінус"
+  },
+  {
+    "word": "plus",
+    "translation": "плюс"
+  },
+  {
+    "word": "graph",
+    "translation": "графік"
+  },
+  {
+    "word": "bar chart",
+    "translation": "стовпчикова діаграма"
+  },
+  {
+    "word": "pie chart",
+    "translation": "секторна діаграма"
+  },
+  {
+    "word": "line graph",
+    "translation": "лінійна графіка"
+  },
+  {
+    "word": "mathematician",
+    "translation": "математик"
+  },
+  {
+    "word": "measure",
+    "translation": "міра"
+  },
+  {
+    "word": "acre",
+    "translation": "акр"
+  },
+  {
+    "word": "degree",
+    "translation": "градус"
+  },
+  {
+    "word": "statistic",
+    "translation": "статистика"
+  },
+  {
+    "word": "to rank",
+    "translation": "ранжувати"
+  },
+  {
+    "word": "to rate",
+    "translation": "оцінити"
+  },
+  {
+    "word": "multiple",
+    "translation": "декілька"
+  },
+  {
+    "word": "numerous",
+    "translation": "численний"
+  },
+  {
+    "word": "vast",
+    "translation": "величезний"
+  },
+  {
+    "word": "section",
+    "translation": "секція"
+  },
+  {
+    "word": "to accompany",
+    "translation": "супроводжувати"
+  },
+  {
+    "word": "to acquire",
+    "translation": "набувати"
+  },
+  {
+    "word": "to approach",
+    "translation": "наближатися"
+  },
+  {
+    "word": "to concern",
+    "translation": "турбувати"
+  },
+  {
+    "word": "to deserve",
+    "translation": "заслужити"
+  },
+  {
+    "word": "to emerge",
+    "translation": "з'явитися"
+  },
+  {
+    "word": "to excuse",
+    "translation": "вибачити"
+  },
+  {
+    "word": "to impress",
+    "translation": "вражати"
+  },
+  {
+    "word": "to interrupt",
+    "translation": "перервати"
+  },
+  {
+    "word": "to range",
+    "translation": "охоплювати"
+  },
+  {
+    "word": "to rely",
+    "translation": "покладатися"
+  },
+  {
+    "word": "to retain",
+    "translation": "утримувати"
+  },
+  {
+    "word": "to reveal",
+    "translation": "викривати"
+  },
+  {
+    "word": "to seek",
+    "translation": "шукати"
+  },
+  {
+    "word": "to sense",
+    "translation": "вловити"
+  },
+  {
+    "word": "to shape",
+    "translation": "формувати"
+  },
+  {
+    "word": "to shift",
+    "translation": "перемістити"
+  },
+  {
+    "word": "to split",
+    "translation": "ділитися"
+  },
+  {
+    "word": "to spot",
+    "translation": "помітити"
+  },
+  {
+    "word": "to subject",
+    "translation": "підпорядковувати"
+  },
+  {
+    "word": "to surround",
+    "translation": "оточувати"
+  },
+  {
+    "word": "to swear",
+    "translation": "клястися"
+  },
+  {
+    "word": "to tear",
+    "translation": "рвати"
+  },
+  {
+    "word": "to track",
+    "translation": "слідкувати"
+  },
+  {
+    "word": "to transfer",
+    "translation": "перевести"
+  },
+  {
+    "word": "to transform",
+    "translation": "перетворити"
+  },
+  {
+    "word": "to urge",
+    "translation": "наполягати"
+  },
+  {
+    "word": "to vary",
+    "translation": "змінюватися"
+  },
+  {
+    "word": "to whisper",
+    "translation": "шептати"
+  },
+  {
+    "word": "to soil",
+    "translation": "забруднити"
+  },
+  {
+    "word": "to go",
+    "translation": "погіршитися"
+  },
+  {
+    "word": "to sound",
+    "translation": "звучати"
+  },
+  {
+    "word": "to concern",
+    "translation": "стосуватися"
+  },
+  {
+    "word": "to oversleep",
+    "translation": "переспати"
+  },
+  {
+    "word": "to preserve",
+    "translation": "зберігати"
+  },
+  {
+    "word": "to resurface",
+    "translation": "знову з'явитися"
+  },
+  {
+    "word": "aside",
+    "translation": "вбік"
+  },
+  {
+    "word": "apparently",
+    "translation": "очевидно"
+  },
+  {
+    "word": "approximately",
+    "translation": "приблизно"
+  },
+  {
+    "word": "basically",
+    "translation": "основно"
+  },
+  {
+    "word": "consistently",
+    "translation": "послідовно"
+  },
+  {
+    "word": "constantly",
+    "translation": "постійно"
+  },
+  {
+    "word": "critically",
+    "translation": "критично"
+  },
+  {
+    "word": "daringly",
+    "translation": "сміливо"
+  },
+  {
+    "word": "deeply",
+    "translation": "глибоко"
+  },
+  {
+    "word": "deliberately",
+    "translation": "намерено"
+  },
+  {
+    "word": "disappointingly",
+    "translation": "на жаль"
+  },
+  {
+    "word": "elsewhere",
+    "translation": "інакше"
+  },
+  {
+    "word": "entirely",
+    "translation": "повністю"
+  },
+  {
+    "word": "gradually",
+    "translation": "постепово"
+  },
+  {
+    "word": "harmlessly",
+    "translation": "безпечно"
+  },
+  {
+    "word": "hopelessly",
+    "translation": "безнадійно"
+  },
+  {
+    "word": "initially",
+    "translation": "спочатку"
+  },
+  {
+    "word": "inevitably",
+    "translation": "неминуче"
+  },
+  {
+    "word": "largely",
+    "translation": "переважно"
+  },
+  {
+    "word": "literally",
+    "translation": "буквально"
+  },
+  {
+    "word": "nevertheless",
+    "translation": "тим не менше"
+  },
+  {
+    "word": "occasionally",
+    "translation": "періодично"
+  },
+  {
+    "word": "otherwise",
+    "translation": "в іншому випадку"
+  },
+  {
+    "word": "overall",
+    "translation": "в цілому"
+  },
+  {
+    "word": "partly",
+    "translation": "частково"
+  },
+  {
+    "word": "precisely",
+    "translation": "точно"
+  },
+  {
+    "word": "relatively",
+    "translation": "відносно"
+  },
+  {
+    "word": "strictly",
+    "translation": "строго"
+  },
+  {
+    "word": "somewhat",
+    "translation": "помірно"
+  },
+  {
+    "word": "subsequently",
+    "translation": "потім"
+  },
+  {
+    "word": "truly",
+    "translation": "по-справжньому"
+  },
+  {
+    "word": "ultimately",
+    "translation": "в кінцевому підсумку"
+  },
+  {
+    "word": "unsuccessfully",
+    "translation": "недостатньо успішно"
+  },
+  {
+    "word": "way",
+    "translation": "дуже"
+  },
+  {
+    "word": "a tad",
+    "translation": "трохи"
+  },
+  {
+    "word": "widely",
+    "translation": "широко"
+  },
+  {
+    "word": "gently",
+    "translation": "ніжно"
+  },
+  {
+    "word": "alongside",
+    "translation": "поруч"
+  },
+  {
+    "word": "accordingly",
+    "translation": "відповідно"
+  },
+  {
+    "word": "beyond",
+    "translation": "за межами"
+  },
+  {
+    "word": "absolute",
+    "translation": "абсолютний"
+  },
+  {
+    "word": "accurate",
+    "translation": "точний"
+  },
+  {
+    "word": "actual",
+    "translation": "фактичний"
+  },
+  {
+    "word": "additional",
+    "translation": "додатковий"
+  },
+  {
+    "word": "advance",
+    "translation": "попередній"
+  },
+  {
+    "word": "apparent",
+    "translation": "очевидний"
+  },
+  {
+    "word": "appropriate",
+    "translation": "доречний"
+  },
+  {
+    "word": "blind",
+    "translation": "сліпий"
+  },
+  {
+    "word": "brief",
+    "translation": "короткий"
+  },
+  {
+    "word": "broad",
+    "translation": "широкий"
+  },
+  {
+    "word": "capable",
+    "translation": "здатний"
+  },
+  {
+    "word": "characteristic",
+    "translation": "характерний"
+  },
+  {
+    "word": "complicated",
+    "translation": "складний"
+  },
+  {
+    "word": "concerned",
+    "translation": "занепокоєний"
+  },
+  {
+    "word": "confusing",
+    "translation": "неясний"
+  },
+  {
+    "word": "conscious",
+    "translation": "свідомий"
+  },
+  {
+    "word": "constant",
+    "translation": "постійний"
+  },
+  {
+    "word": "corporate",
+    "translation": "корпоративний"
+  },
+  {
+    "word": "deliberate",
+    "translation": "умисний"
+  },
+  {
+    "word": "detailed",
+    "translation": "детальний"
+  },
+  {
+    "word": "downward",
+    "translation": "низький"
+  },
+  {
+    "word": "efficient",
+    "translation": "ефективний"
+  },
+  {
+    "word": "entire",
+    "translation": "цілий"
+  },
+  {
+    "word": "ethical",
+    "translation": "етичний"
+  },
+  {
+    "word": "even",
+    "translation": "однорідний"
+  },
+  {
+    "word": "executive",
+    "translation": "виконавчий"
+  },
+  {
+    "word": "extraordinary",
+    "translation": "незвичайний"
+  },
+  {
+    "word": "flexible",
+    "translation": "гнучкий"
+  },
+  {
+    "word": "folding",
+    "translation": "складний"
+  },
+  {
+    "word": "former",
+    "translation": "первий"
+  },
+  {
+    "word": "so-called",
+    "translation": "так званий"
+  },
+  {
+    "word": "neat",
+    "translation": "акуратний"
+  },
+  {
+    "word": "bizarre",
+    "translation": "бізарний"
+  },
+  {
+    "word": "superficial",
+    "translation": "поверхневий"
+  },
+  {
+    "word": "out of sight",
+    "translation": "поза увагою"
+  },
+  {
+    "word": "forward",
+    "translation": "передній"
+  },
+  {
+    "word": "fundamental",
+    "translation": "основний"
+  },
+  {
+    "word": "grand",
+    "translation": "величний"
+  },
+  {
+    "word": "hilarious",
+    "translation": "смішний"
+  },
+  {
+    "word": "honorable",
+    "translation": "почесний"
+  },
+  {
+    "word": "humorous",
+    "translation": "дотепний"
+  },
+  {
+    "word": "impressed",
+    "translation": "вражений"
+  },
+  {
+    "word": "initial",
+    "translation": "первинний"
+  },
+  {
+    "word": "inner",
+    "translation": "внутрішній"
+  },
+  {
+    "word": "intended",
+    "translation": "планований"
+  },
+  {
+    "word": "intense",
+    "translation": "інтенсивний"
+  },
+  {
+    "word": "internal",
+    "translation": "внутрішній"
+  },
+  {
+    "word": "literal",
+    "translation": "літеральний"
+  },
+  {
+    "word": "mass",
+    "translation": "масовий"
+  },
+  {
+    "word": "material",
+    "translation": "матеріальний"
+  },
+  {
+    "word": "mixed",
+    "translation": "змішаний"
+  },
+  {
+    "word": "overall",
+    "translation": "загальний"
+  },
+  {
+    "word": "potential",
+    "translation": "потенційний"
+  },
+  {
+    "word": "prime",
+    "translation": "первинний"
+  },
+  {
+    "word": "pure",
+    "translation": "чистий"
+  },
+  {
+    "word": "rapid",
+    "translation": "швидкий"
+  },
+  {
+    "word": "representative",
+    "translation": "представницький"
+  },
+  {
+    "word": "resident",
+    "translation": "рідний"
+  },
+  {
+    "word": "routine",
+    "translation": "погоджений"
+  },
+  {
+    "word": "shocked",
+    "translation": "вражений"
+  },
+  {
+    "word": "slight",
+    "translation": "легкий"
+  },
+  {
+    "word": "sticky",
+    "translation": "липкий"
+  },
+  {
+    "word": "stiff",
+    "translation": "жорсткий"
+  },
+  {
+    "word": "unconscious",
+    "translation": "непритомний"
+  },
+  {
+    "word": "upper",
+    "translation": "верхній"
+  },
+  {
+    "word": "very",
+    "translation": "саме"
+  },
+  {
+    "word": "vital",
+    "translation": "життєво важливий"
+  }
+]
