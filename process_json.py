@@ -26,9 +26,11 @@ def extract_word_translation(cards_raw):
             for card in group:
                 try:
                     word = card["mainTranslation"]["title"]
+                    explaination = card["mainTranslation"]["translation"]
                     translation = card["mainTranslation"]["localizedProperties"]["translation"]
                     extracted.append({
                         "word": word,
+                        "explaination": explaination,
                         "translation": translation
                     })
                 except (KeyError, TypeError):
